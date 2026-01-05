@@ -1,0 +1,350 @@
+zone,state,city,name,type,entrance_fee_in_inr,significance,image_url,total_cost,latitude,longitude
+Western,Gujarat,Rann of Kutch,Rann Utsav,Cultural,7500,Cultural,https://www.rannutsav.com/blog/wp-content/uploads/2024/12/141013682_715635635803639_4674705074199093637_n-1.png,11000,24.08333,70.16667
+Northern,Punjab,Amritsar,Golden Temple (Harmandir Sahib),Religious Site,0,Religious,https://upload.wikimedia.org/wikipedia/commons/9/94/The_Golden_Temple_of_Amrithsar_7.jpg,3050,31.620132,74.876091
+Northern,Ladakh,Leh,Pangong Tso,Lake,20,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/00/2f/67/img-20180620-wa0007-largejpg.jpg?w=900&h=500&s=1,4000,33.717942,78.8968
+Western,Maharastra,Mumbai,Siddhivinayak Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg,2050,19.01692,72.830409
+Western,Gujarat,Somnath,Somnath Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Somanath_mandir_%28cropped%29.jpg/640px-Somanath_mandir_%28cropped%29.jpg,2050,20.905886,70.387505
+Northern,Punjab,Amritsar,Jallianwala Bagh,Memorial,0,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jallianwala_Bagh%2C_Amritsar_01.jpg/1200px-Jallianwala_Bagh%2C_Amritsar_01.jpg,3050,31.620521,74.880565
+Northern,Punjab,Amritsar,Wagah Border,Border Crossing,0,Cultural,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wagah_border_ceremony2.jpg/800px-Wagah_border_ceremony2.jpg,3050,31.60464,74.5731
+Western,Maharastra,Kolhapur,Mahalakshmi Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mahalaxmi_Temple%2C_Kolhapur.jpg/640px-Mahalaxmi_Temple%2C_Kolhapur.jpg,2050,18.983331,72.799998
+Central,Madhya Pradesh,Ujjain,Mahakaleshwar Jyotirlinga,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mahakal_Temple_Ujjain.JPG/1200px-Mahakal_Temple_Ujjain.JPG,3050,23.18278,75.76833
+Central,Madhya Pradesh,Orchha,Orchha Fort,Fort,10,Historical,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/1d/24/96/the-marvellous-orchha.jpg?w=900&h=500&s=1,4000,25.35,78.64
+Northern,Himachal Pradesh,Spiti Valley,Key Monastery,Monastery,0,Religious,https://upload.wikimedia.org/wikipedia/commons/4/49/1000_Year_loop.jpg,3050,32.297812,78.011941
+Northern,Himachal Pradesh,Bir Billing,Paragliding Site,Adventure Sport,2500,Adventure,https://www.pandotrip.com/wp-content/uploads/2014/05/Top-10-Paragliding-Sites-Slovenia-Photo-by-Robert-Kovacs.jpg,6000,18.755,73.47
+Northern,Himachal Pradesh,McLeod Ganj,Triund Trek,Trekking,0,Adventure,"https://ik.imagekit.io/wcarzmwtz/trekyaari-images/Triund_-_Trekyaari_26_-jY9cOl6O.jpeg?tr=w-2048,q-100",3050,32.2617,76.3544
+Northern,Uttarakhand,Badrinath,Badrinath Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/f/f9/Badrinath_Temple_%2C_Uttarakhand.jpg,3050,30.7447,79.4911
+Northern,Uttarakhand,Uttarkashi,Gangotri Temple,Temple,0,Religious,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/45/3b/da/the-main-temple.jpg?w=1200&h=-1&s=1,3050,30.98,78.93
+Northern,Uttarakhand,Chopta,Tungnath Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tungnath_temple.jpg/640px-Tungnath_temple.jpg,3050,30.489,79.217
+Central,Uttar Pradesh,Ayodhya,Ram Janmabhoomi,Religious Site,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg/800px-Ayodhya_Ram_Mandir_Inauguration_Day_Picture.jpg,3050,26.7956,82.1943
+Central,Uttar Pradesh,Vrindavan,Banke Bihari Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/e/e3/Banke_Bihari_Vrindavan.jpg,3050,27.5798,77.6905
+Central,Uttar Pradesh,Meerut,Augarnath Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kali_Paltan_Mandir%2C_Meerut.jpg/1200px-Kali_Paltan_Mandir%2C_Meerut.jpg,3050,28.9968,77.6911
+Northern,Ladakh,Kargil,Kargil War Memorial,War Memorial,0,Historical,https://upload.wikimedia.org/wikipedia/commons/c/c5/Kargilwarmemorialdarss3.jpg,3050,34.4333,75.75
+Northern,Ladakh,Dras,Dras War Memorial,War Memorial,0,Historical,https://upload.wikimedia.org/wikipedia/commons/c/c5/Kargilwarmemorialdarss3.jpg,3050,34.4333,75.75
+Central,Uttar Pradesh,Vrindavan,Prem Mandir,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PremMandirSideViewFromCanteen.jpg/800px-PremMandirSideViewFromCanteen.jpg,3050,27.5725,77.6725
+Central,Uttar Pradesh,Porbandar,Kirti Mandir,Memorial,0,Historical,https://faujitoursandtravels.com/wp-content/uploads/2024/08/kirti-mandir-scaled.jpg,3050,22.3075,73.19
+Central,Uttar Pradesh,Mathura,Barsana Mandir,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/7/74/Radharani_Temple_Barsana_2.jpg,3050,27.65,77.38
+Southern,Tamil Nadu,Thanjavur,Brihadeeswarar Temple,Temple,0,Religious,https://cdn.britannica.com/66/250066-050-B34A9532/Brihadishvara-Temple-Thanjavur-Tamil-Nadu-India.jpg,3050,10.7869,79.1378
+Eastern,Sikkim,Ravangla,Buddha Park,Park,50,Cultural,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/ef/73/74/awesomeness-overloaded.jpg?w=900&h=500&s=1,5000,17.9123,102.7654
+Southern,Andaman and Nicobar Islands,Havelock Island,Radhanagar Beach,Beach,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/89/e9/f8/radhanagar-beach.jpg?w=900&h=500&s=1,3050,11.9667,92.9333
+Northern,Delhi,New Delhi,Gurudwara Bangla Sahib,Gurudwara,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Front_view_of_Gurudwara_Bangla_Sahib%2C_Delhi.jpg/800px-Front_view_of_Gurudwara_Bangla_Sahib%2C_Delhi.jpg,3050,28.627,77.2089
+Northern,Uttarakhand,Kedarnath,Kedarnath,Temple,0,Religious,https://badrinath-kedarnath.gov.in/css_js_2024/img/kedarnath-4k.jpg,3050,30.7352,79.0669
+Western,Maharastra,Mumbai,Mahalaxmi Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/5/53/Mahalaxmi_Temple%2C_Kolhapur.jpg,2050,18.9823,72.817
+Southern,Telangana,Hyderabad,Birla Mandir,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/3/3c/Birla_Mandir%2C_Hyderabad.png,3050,26.9124,75.813
+Eastern,West Bengal,Kolkata,Dakshineswar Kali Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG/800px-Dakhineshwar_Temple_beside_the_Hoogly%2C_West_Bengal.JPG,4050,22.6558,88.3622
+Eastern,West Bengal,Kolkata,Belur Math,Site,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Belur_Math%2C_Howrah.jpg/1200px-Belur_Math%2C_Howrah.jpg,4050,22.6326,88.357
+Western,Gujarat,Dwarka,Dwarkadhish Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/a/a2/Dwarkadheesh_temple.jpg,2050,22.2446,68.9688
+Southern,Kerala,Thiruvananthapuram,Padmanabhaswamy Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/d/d2/Sree_Padmanabhaswamy_temple_01.jpg,3050,8.4826,76.9485
+Southern,Karnataka,Hampi,Hampi Archaeological Ruins,Site,0,Historical,https://www.dailyartmagazine.com/wp-content/uploads/2020/08/stone-chariot-hampi-tourism-entry-fee-timings-holidays-reviews-header-1024x512.jpg,3050,15.335,76.46
+Southern,Karnataka,Murudeshwar,Murudeshwar Temple,Temple,0,Religious,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/73/8a/ad/murudeshwar.jpg?w=1200&h=1200&s=1,3050,14.094,74.484
+Southern,Karnataka,Halebidu,Halebidu Hoysaleswara Temple,Temple,15,Religious,https://media.meer.com/attachments/f7d6921ad0115a039e4a410081b28c60ab3f1564/store/fill/1090/613/b732c147bc434b3a19581501d1cbdcce7757cfefe3a28a417e8e9f9c9e03/An-entrance-into-the-Hoysaleshwara-temple-in-Halebidu.jpg,4000,13.2167,75.9833
+Western,Maharastra,Shirdi,Sai Baba Temple,Temple,0,Religious,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ab/9c/b1/shirdi-sai-baba-mandir.jpg?w=1200&h=-1&s=1,2050,19.7644,74.475
+Western,Maharastra,Ratnagiri,Ganapatipule Temple,Temple,0,Religious,https://www.ganpatipule.co.in/images/slider/5.jpg,2050,17.148,73.276
+Western,Maharashtra,Ajanta,Ellora Caves,Cave,30,Historical,https://whc.unesco.org/uploads/thumbs/site_0243_0001-1200-630-20151104152442.jpg,3000,20.0268,75.1794
+Central,Madhya Pradesh,Khajuraho,Khajuraho Group of Monuments,Temples,40,Cultural,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Khajuraho_Group_of_Monuments_4.jpg/1200px-Khajuraho_Group_of_Monuments_4.jpg,4000,24.851,79.933
+Central,Madhya Pradesh,Bhopal,Sanchi Stupa,Monument,30,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG/250px-East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG,4000,23.479,77.739
+Northern,Himachal Pradesh,Shimla,The Ridge,Scenic Point,0,Recreational,https://cdn.prod.website-files.com/5ebb1b2c07f0f111e4ac241c/657afea045f2033b23a92839_ridge.webp,3050,31.1048,77.1734
+Northern,Himachal Pradesh,dalhousie,Dalai Lama Temple,Temple,0,Religious,https://customtoursindia.com/wp-content/uploads/2024/07/Visiting-Dharamshala-Home-of-the-Dalai-Lama-in-India.webp,3050,32.242,76.321
+Northern,Himachal Pradesh,Barot,Barot Valley,Valley,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/e7/15/ff/barot-valley-view.jpg?w=900&h=500&s=1,3050,32,76.8333
+Northern,Uttarakhand,Joshimath,Valley of Flowers,National Park,150,Nature,https://upload.wikimedia.org/wikipedia/commons/2/21/%28A%29_Valley_of_flowers%2C_Garhwal_Uttarakhand_India.jpg,4000,30.728,79.605
+Central,Uttar Pradesh,Varanasi,Kashi Vishwanath Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg,3050,25.3109,83.0095
+Central,Uttar Pradesh,Mathura,Krishna Janmabhoomi,Temple,0,Religious,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/90/3e/20/img-20160817-122832-largejpg.jpg?w=1200&h=1200&s=1,3050,27.4956,77.6737
+Northern,Jammu and Kashmir,Jammu,Vaishno Devi,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/c/c8/Vaishno_devi.jpg,3050,33.027,74.949
+Northern,Ladakh,Leh,Thiksey Monastery,Monastery,20,Religious,https://upload.wikimedia.org/wikipedia/commons/e/e5/Thikse_Monastery_.jpg,4000,34.056,77.633
+Northern,Ladakh,Diskit,Diskit Monastery,Monastery,20,Religious,https://upload.wikimedia.org/wikipedia/commons/1/16/Diskit_Gompa_2.jpg,4000,34.5411,77.5603
+Northern,Ladakh,Leh,Thiksey Monastery,Monastery,30,Religious,https://upload.wikimedia.org/wikipedia/commons/e/e5/Thikse_Monastery_.jpg,4000,34.0538,77.6667
+Eastern,West Bengal,Bolpur,Kankalitala Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/4/4e/Kankalitala_Temple_complex%2C_Birbhum%2C_West_Bengal_05.jpg,4050,23.7147,87.7228
+Eastern,Odisha,Puri,Jagannath Temple,Temple,0,Religious,http://pujacraft.com/cdn/shop/articles/PTI04_24_2021_000120A_1619272465136_1641572422757.webp?v=1686066690,4050,19.8028,85.8177
+Eastern,Odisha,Konark,Sun Temple,Temple,40,Historical,https://upload.wikimedia.org/wikipedia/commons/4/47/Konarka_Temple.jpg,5000,19.8874,86.0946
+Southern,Tamil Nadu,Madurai,Meenakshi Amman Temple,Temple,0,Religious,https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3539467584758186787,3050,9.9195,78.1193
+Southern,Tamil Nadu,Coimbatore,Marudamalai Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/4/46/Maruthamalai_Rajagopuram_1.jpg,3050,11.0477,76.8646
+Southern,Tamil Nadu,Chidambaram,Nataraja Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/4/44/Le_temple_de_Shiva_Nataraja_%28Chidambaram%2C_Inde%29_%2814037020332%29.jpg,3050,11.3994,79.6933
+Southern,Andhra Pradesh,Vijayawada,Kanaka Durga Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/b/ba/Kanakadurga_Temple_gopuram.jpg,3050,16.519,80.6215
+Southern,Andhra Pradesh,Srisailam,Mallikarjuna Swamy Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/c/c0/Srisailam.jpg,3050,16.0733,78.8687
+Southern,Andhra Pradesh,Amravati,Amaravathi Temple,Temple,0,Religious,https://s7ap1.scene7.com/is/image/incredibleindia/amaralingeshwara-temple-amaravati-andhra-pradesh-1-attr-hero?qlt=82&ts=1726743722820,3050,16.573,80.3575
+Southern,Andhra Pradesh,Puttaparthi,Prasanthi Nilayam,Spiritual Center,0,Religious,https://upload.wikimedia.org/wikipedia/commons/d/da/Sri_Sathya_Sai_Baba_Mahasamadhi_at_Sai_Kulwant_Hall.jpg,3050,14.1652,77.8117
+Southern,Andhra Pradesh,Vizianagaram,Simhachalam Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/1/18/Simhachalam_temple_from_a_hilltop.jpg,3050,17.7669,83.2484
+Eastern,Sikkim,Namchi,Char Dham,Religious Complex,50,Religious,https://www.dealswithai.com/assets/images/2024-05-29-02-01-11-Chardham-Yatra.jpg,5000,30.73,79.07
+North Eastern,Assam,Sivasagar,Sivasagar Sivadol,Temple,0,Historical,https://upload.wikimedia.org/wikipedia/commons/7/79/Siva_Dol.JPG,3550,26.9883,94.6331
+North Eastern,Assam,Majuli,Majuli Island,River Island,0,Cultural,https://upload.wikimedia.org/wikipedia/commons/c/cb/Doriya_River_of_Majuli.jpg,3550,26.954,94.145
+North Eastern,Arunachal Pradesh,Tawang,Tawang Monastery,Monastery,0,Religious,https://upload.wikimedia.org/wikipedia/commons/2/2a/Tawang_Monastery_%28Tibetan_Buddhist%29.jpg,3550,27.586,91.865
+Southern,Andaman and Nicobar Islands,Port Blair,Cellular Jail,Landmark,30,Historical,https://upload.wikimedia.org/wikipedia/commons/f/fe/Front_View_of_Cellular_Jail%2C_Port_Blair.JPG,4000,11.673,92.7416
+Eastern,Jharkhand,Deoghar,Baba Baidyanath Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/e/e2/Baba_Dham.jpg,4050,24.485,86.695
+Eastern,Bihar,Bodh Gaya,Mahabodhi Temple,Temple,0,Religious,https://whc.unesco.org/uploads/thumbs/site_1056_0001-750-750-20120601152647.jpg,4050,24.695,84.991
+Eastern,Bihar,Patna,Takhat Shri Harimandir Ji Patna Sahib,Gurudwara,0,Religious,https://tourism.bihar.gov.in/content/dam/bihar-tourism/images/category_a/patna/takht_sri_harmandir_sahib/20.%20Takhat-Sri-Harimandir-Ji.jpg/jcr:content/renditions/cq5dam.web.480.480.jpeg,4050,25.59598,85.23
+Northern,Haryana,Gurugram,DLF CyberHub,Commercial Complex,0,Entertainment,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b8/e2/a4/photo5jpg.jpg?w=1200&h=-1&s=1,3050,28.49792,77.08869
+Southern,Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/1200px-Ramanathaswamy_temple7.JPG,3050,9.28811,79.31728
+Northern,Delhi,Delhi,India Gate,War Memorial,0,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/India_Gate_on_the_evening_of_77th_Independence_day.jpg/640px-India_Gate_on_the_evening_of_77th_Independence_day.jpg,3050,28.61289,77.22945
+Northern,Delhi,Delhi,Akshardham Temple,Temple,60,Religious,https://i0.wp.com/singhruby.com/wp-content/uploads/2016/01/akshardham_facts_and_figure_banner.jpg,4000,28.6125,77.276
+Northern,Delhi,Delhi,Sunder Nursery,Park,0,Botanical,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sunder_Nursery_Sep-2019.jpg/1200px-Sunder_Nursery_Sep-2019.jpg,3050,28.6125,77.276
+Western,Maharastra,Mumbai,Gateway of India,Monument,0,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg/800px-Mumbai_03-2016_30_Gateway_of_India.jpg,2050,18.92206,72.83464
+Western,Maharastra,Mumbai,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,500,Historical,https://upload.wikimedia.org/wikipedia/commons/7/79/Chhatrapati_Shivaji_Maharaj_Vastu_Sangrahalaya.jpg,3000,18.92739,72.83205
+Southern,Karnataka,Bangalore,Vidhana Soudha,Government Building,0,Architectural,https://upload.wikimedia.org/wikipedia/commons/1/11/Vidhana_Soudha%2C_14_February_2022_-_cropped.jpg,3050,12.97972,77.59061
+Southern,Karnataka,Bangalore,ISKCON Temple Bangalore,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/1/11/ISKCON_Banglaore_Temple.jpg,3050,13.01009,77.55106
+Eastern,West Bengal,Kolkata,Victoria Memorial,Museum,30,Historical,https://upload.wikimedia.org/wikipedia/commons/7/72/Victoria_Memorial_situated_in_Kolkata.jpg,5000,22.54489,88.34167
+Eastern,West Bengal,Kolkata,Howrah Bridge,Bridge,0,Architectural,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Howrah_bridge_at_night.jpg/1200px-Howrah_bridge_at_night.jpg,4050,22.59577,88.26364
+Eastern,West Bengal,Kolkata,Indian Museum,Museum,50,Historical,https://upload.wikimedia.org/wikipedia/commons/8/8c/Indian_Museum%2C_Courtyard%2C_Kolkata%2C_India.jpg,5000,22.9375,88.36389
+Southern,Goa,Goa,Dudhsagar Falls,Waterfall,500,Nature,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Doodhsagar_Fall.jpg/1200px-Doodhsagar_Fall.jpg,4000,15.1708,74.0952
+Southern,Goa,Goa,Arambol Beach,Beach,0,Scenic,https://upload.wikimedia.org/wikipedia/commons/a/ab/Arambol_2022-01-04-2.jpg,3050,15.6868,73.7036
+Southern,Goa,Goa,Palolem Beach,Beach,0,Scenic,https://upload.wikimedia.org/wikipedia/commons/9/9c/Palolem_Beach%2C_South_Goa.jpg,3050,15,74.0833
+Western,Gujarat,Bhuj,White Desert,Site,0,Nature,https://upload.wikimedia.org/wikipedia/commons/4/4a/Al_Farafrah%2C_New_Valley_Governorate%2C_Egypt_-_panoramio_%2821%29.jpg,2050,23.7317,69.6886
+Western,Gujarat,Kevadia,Statue of Unity,Monument,150,Cultural,https://upload.wikimedia.org/wikipedia/commons/0/07/Statue_of_Unity.jpg,3000,21.83874,73.71931
+Northern,Rajasthan,Sawai Madhopur,Ranthambore National Park,Wildlife Sanctuary,500,Wildlife,https://www.tripsavvy.com/thmb/dV7zQhV4qJ_mPL8AmzjenGByzk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tres-bengala-tigres-en-frente-de-turista-de-520373860-735d4cd8c3b147d98cce1f158d0eefab.jpg,4000,25.0115,76.3645
+Northern,Rajasthan,Ajmer,Ajmer Sharif Dargah,Shrine,0,Religious,https://d2dzi65yjecjnt.cloudfront.net/405980.jpg,3050,26.4715,74.6318
+Northern,Rajasthan,Jodhpur,Mehrangarh Fort,Fort,100,Historical,https://cdn.britannica.com/39/242539-050-97AFAE4E/Mehrangarh-fortress-Jodhpur-Rajasthan-India.jpg,4000,26.2945,73.0325
+Northern,Rajasthan,Chittorgarh,Chittorgarh Fort,Fort,40,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chittorgarh_fort.JPG/1200px-Chittorgarh_fort.JPG,4000,24.879,74.626
+Northern,Rajasthan,Mount Abu,Dilwara Temples,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/8/81/Delwada.jpg,3050,24.586,72.716
+Northern,Rajasthan,Jaipur,Amber Fort,Fort,100,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg/800px-20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg,4000,26.9855,75.8519
+Northern,Rajasthan,Udaipur,Lake Pichola,Lake,0,Nature,https://upload.wikimedia.org/wikipedia/commons/d/d2/Udaipur_Lake_India.JPG,3050,24.5775,73.671
+Southern,Kerala,Varkala,Varkala Beach,Beach,0,Recreational,https://upload.wikimedia.org/wikipedia/commons/e/e0/Varkala_beach_from_above.jpg,3050,8.7415,76.595
+Southern,Kerala,Kochi,Wonderla Amusement Park,Amusement Park,750,Entertainment,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b4/a3/72/flash-tower-is-a-shoot.jpg?w=1200&h=1200&s=1,4000,13.078,77.529
+Southern,Karnataka,Mysore,Mysore Palace,Palace,50,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mysore_Palace_Morning.jpg/1200px-Mysore_Palace_Morning.jpg,4000,12.305,76.655
+Southern,Karnataka,Badami,Badami Cave Temples,Cave,30,Religious,https://upload.wikimedia.org/wikipedia/commons/7/7b/Vishnu_image_inside_cave_number_3_in_Badami.jpg,4000,15.925,75.699
+Southern,Karnataka,Shivamogga,Jog Falls,Waterfall,30,Nature,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Jog_Falls_05092016.jpg/1200px-Jog_Falls_05092016.jpg,4000,14.216,74.625
+Western,Maharastra,Aurangabad,Ajanta Caves,Cave,30,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ajanta_%2863%29.jpg/300px-Ajanta_%2863%29.jpg,3000,20.549,75.7
+Western,Maharashtra,Tarkarli,Tarkarli Beach,Beach,0,Recreational,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/19/79/56/tarkarli-beach.jpg?w=1200&h=1200&s=1,2050,16.017,73.5
+Central,Madhya Pradesh,Pachmarhi,Bee Falls,Waterfall,15,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/33/53/06/photo0jpg.jpg?w=900&h=500&s=1,4000,22.457,77.616
+Central,Madhya Pradesh,Bhimbetka,Bhimbetka Rock Shelters,Prehistoric Site,25,Archaeological,https://upload.wikimedia.org/wikipedia/commons/9/91/Rock_Shelter_8%2C_Bhimbetka_02.jpg,4000,23.253,77.63
+Northern,Himachal Pradesh,Palampur,Tea Gardens,Tea Plantation,0,Agricultural,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e9/52/a2/sunset-at-tata-tea-gardens.jpg?w=1200&h=-1&s=1,3050,32.1188,76.5396
+Northern,Himachal Pradesh,Mandi,Prashar Lake,Lake,0,Nature,https://upload.wikimedia.org/wikipedia/commons/7/75/Prashar_Lake_and_temple_%2CMandi_%2CHimachal_Pardesh.jpg,3050,31.7544,77.1011
+Northern,Himachal Pradesh,Manikaran,Manikaran Sahib,Gurudwara,0,Religious,https://upload.wikimedia.org/wikipedia/commons/c/c7/Outer_view_of_the_temple%27s_hot_water_well_and_the_parvati_river_flowing_by_it.jpg,3050,32.0279,77.3589
+Central,Uttar Pradesh,Agra,Taj Mahal,Mausoleum,50,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/640px-Taj_Mahal_%28Edited%29.jpeg,4000,27.1767,78.0081
+Central,Uttar Pradesh,Sarnath,Dhamek Stupa,Monument,5,Historical,https://upload.wikimedia.org/wikipedia/commons/0/02/Dhamek_Stupa%2C_Sarnath.jpg,4000,25.3808,83.0245
+Northern,Jammu and Kashmir,Srinagar,Dal Lake,Lake,0,Nature,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/800px-Dal_Lake_Hazratbal_Srinagar.jpg,3050,34.1167,74.8519
+Northern,Jammu and Kashmir,Pahalgam,Betaab Valley,Valley,100,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/71/3f/53/betaab-valley.jpg?w=1200&h=1200&s=1,4000,33.9333,75.3
+Eastern,West Bengal,Hooghly,Hangseswari Temple,Temple,0,Architectural,https://upload.wikimedia.org/wikipedia/commons/0/07/Hanseswari_Mandir.jpg,4050,22.93,88.389
+Eastern,Odisha,Bhubaneswar,Lingaraj Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/8/83/LINGARAJ_TEMPLE_AMLAN_BISWAL_2024.jpg,4050,20.7984,85.8318
+Eastern,Odisha,Berhampur,Tara Tarini Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/b/bb/Taratarini_maa.jpg,4050,19.3122,84.9863
+Southern,Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ramanathaswamy_temple7.JPG/1200px-Ramanathaswamy_temple7.JPG,3050,9.2881,79.3173
+Southern,Tamil Nadu,Kanyakumari,Vivekananda Rock Memorial,Memorial,20,Historical,https://upload.wikimedia.org/wikipedia/commons/b/b6/RockMemorial.jpg,4000,8.0878,77.529
+Southern,Tamil Nadu,Mahabalipuram,Shore Temple,Temple,40,Historical,https://upload.wikimedia.org/wikipedia/commons/7/74/Shore_Temple_-Mamallapuram_-Tamil_Nadu_-N-TN-C55.jpg,4000,12.6164,80.1986
+Southern,Tamil Nadu,Tirunelveli,Nellaiappar Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/b/b8/Tirnelveli_Gandhimathiamman_Temple_Tower.JPG,3050,8.73,77.726
+Southern,Andhra Pradesh,Anantapur,Lepakshi,Site,0,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Front_side_of_Veerabhadra_Temple%2C_Lepakshi.jpg/1200px-Front_side_of_Veerabhadra_Temple%2C_Lepakshi.jpg,3050,13.81,77.6
+Southern,Andhra Pradesh,Visakhapatnam,Submarine Museum,Museum,40,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Submarine_Museum.JPG/1200px-Submarine_Museum.JPG,4000,17.693,83.296
+Eastern,Sikkim,Pelling,Pemayangtse Monastery,Monastery,20,Religious,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/39/80/4e/pemayangtse-monastery.jpg?w=900&h=500&s=1,5000,27.2125,88.6111
+Eastern,Sikkim,Gangtok,Rumtek Monastery,Monastery,10,Religious,https://upload.wikimedia.org/wikipedia/commons/e/e5/Vikramjit-Kakati-Rumtek.jpg,5000,27.2769,88.6025
+North Eastern,Assam,Guwahati,Kamakhya Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Kamakhya_Temple%2C_Guwahati.jpg/1200px-Kamakhya_Temple%2C_Guwahati.jpg,3550,26.1145,91.7369
+North Eastern,Assam,Manas,Manas National Park,National Park,500,Wildlife,https://upload.wikimedia.org/wikipedia/commons/d/d8/Manas_National_Park.jpg,4500,26.6,90.5
+Central,Chhattisgarh,Bastar,Chitrakote Falls,Waterfall,0,Nature,https://upload.wikimedia.org/wikipedia/commons/9/91/Chitrakot_waterfalls.JPG,3050,19.29,81.7333
+Western,Daman and Diu,Diu,Diu Fort,Fort,0,Historical,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/53/f4/8e/beutiful-place.jpg?w=900&h=500&s=1,2050,20.713,70.982
+Eastern,Jharkhand,Ranchi,Pahari Mandir,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/0/0d/Pahari_Mandir_-_Ranchi_Hill_9243.JPG,4050,23.358,85.33
+Northern,Haryana,Gurugram,Ambience Mall,Mall,0,Shopping,https://upload.wikimedia.org/wikipedia/commons/6/62/Mango_atrium_at_Ambience_Mall%2C_Gurgaon.jpg,3050,28.4595,77.0841
+Central,Uttar Pradesh,Noida,DLF Mall of India,Mall,0,Shopping,https://upload.wikimedia.org/wikipedia/commons/3/3f/DLF_Mall_of_India.jpg,3050,28.5615,77.3246
+Northern,Delhi,Delhi,Humayun's Tomb,Tomb,30,Historical,https://whc.unesco.org/uploads/thumbs/site_0232_0005-750-750-20210425155601.jpg,4000,28.593,77.25
+Northern,Delhi,Delhi,Lotus Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/LotusDelhi.jpg/800px-LotusDelhi.jpg,3050,28.5535,77.2588
+Northern,Delhi,Delhi,Red Fort,Fort,35,Historical,https://cdn.britannica.com/20/189820-050-D650A54D/Red-Fort-Old-Delhi-India.jpg,4000,28.6562,77.241
+Northern,Delhi,Delhi,Lodhi Garden,Park,0,Botanical,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/14/cf/80/lodi-gardens.jpg?w=1200&h=1200&s=1,3050,28.5915,77.224
+Northern,Delhi,Delhi,National Gallery of Modern Art,Museum,20,Artistic,https://upload.wikimedia.org/wikipedia/commons/3/31/Jaipur_House_Delhi.jpg,4000,28.6125,77.2295
+Northern,Delhi,Delhi,Qutub Minar,Monument,35,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Qutb_Minar_2011.jpg/200px-Qutb_Minar_2011.jpg,4000,28.5245,77.1855
+Western,Maharastra,Mumbai,Marine Drive,Promenade,0,Scenic,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Marine_Drive_Skyline.jpg/800px-Marine_Drive_Skyline.jpg,2050,18.94,72.8258
+Southern,Telangana,Hyderabad,Charminar,Landmark,25,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Charminar_Hyderabad_1.jpg/800px-Charminar_Hyderabad_1.jpg,4000,17.3616,78.4747
+Southern,Goa,Goa,Basilica of Bom Jesus,Church,0,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Basilica_of_bom_jesus_-_Front_View.jpg/1200px-Basilica_of_bom_jesus_-_Front_View.jpg,3050,15.49,73.812
+Southern,Goa,Goa,Se Cathedral,Church,0,Historical,https://upload.wikimedia.org/wikipedia/commons/7/72/Se%E2%80%99_Cathedral%2C_Goa.jpg,3050,15.49,73.812
+Southern,Goa,Goa,Baga Beach,Beach,0,Scenic,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/3e/36/95/baga-sea-beach.jpg?w=1200&h=-1&s=1,3050,15.552,73.743
+Southern,Goa,Goa,Aguada Beach,Beach,0,Scenic,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/30/bd/4c/photo2jpg.jpg?w=1200&h=-1&s=1,3050,15.535,73.746
+Western,Gujarat,Junagadh,Gir National Park,National Park,3500,Wildlife,https://upload.wikimedia.org/wikipedia/commons/9/90/Gir_lion-Gir_forest%2Cjunagadh%2Cgujarat%2Cindia.jpeg,6200,20.951,70.69
+Western,Gujarat,Gandhinagar,Dandi Kutir,Museum,0,Historical,https://dandi-kutir.com/wp-content/uploads/2023/07/Picture2.jpg,2050,23.184,72.671
+Northern,Rajasthan,Bikaner,Junagarh Fort,Fort,50,Historical,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/38/91/24/outside-of-the-fort.jpg?w=900&h=-1&s=1,4000,28.022,73.312
+Northern,Rajasthan,Jaipur,Jaigarh Fort,Fort,35,Historical,https://upload.wikimedia.org/wikipedia/commons/3/34/Rajasthan-Jaipur-Jaigarh-Fort-compound-Apr-2004-00.JPG,4000,26.9855,75.8519
+Northern,Punjab,Chandigarh,Rock Garden,Sculpture Garden,30,Artistic,https://www.thespruce.com/thmb/tO_j4ToZ8KXEhNAzpS0atlzCF2M=/2048x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-build-rock-gardens-2132674-hero-0ca8dc4580c9495c8fea6ed3db29f92f.jpg,4000,30.7357,76.818
+Southern,Kerala,Alappuzha,Alappuzha Beach,Beach,0,Recreational,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Alleppey_beach.jpg/1200px-Alleppey_beach.jpg,3050,9.5,76.35
+Southern,Kerala,Wayanad,Wayanad Wildlife Sanctuary,Wildlife Sanctuary,300,Wildlife,https://upload.wikimedia.org/wikipedia/commons/1/11/Wayanad_Wild_Life_Sanctuary.JPG,4000,11.7167,76.0144
+Southern,Kerala,Bekal,Bekal Fort,Fort,20,Historical,https://upload.wikimedia.org/wikipedia/commons/7/74/Bekal.jpg,4000,12.6333,75.0833
+Southern,Kerala,Nelliyampathy,Seethargundu Viewpoint,Viewpoint,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/4e/3a/91/seethargundu-viewpoint.jpg?w=1200&h=1200&s=1,3050,10.2033,77.0167
+Southern,Karnataka,Gokarna,Om Beach,Beach,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/53/5e/7f/om-beach.jpg?w=900&h=500&s=1,3050,14.555,74.312
+Southern,Karnataka,Chikmagalur,Mullayanagiri,Mountain Peak,0,Nature,https://i0.wp.com/weekendyaari.in/wp-content/uploads/2024/11/Mullayanagiri-scaled.webp?fit=2560%2C1322&ssl=1,3050,13.3986,75.6167
+Southern,Karnataka,Mangalore,Panambur Beach,Beach,0,Recreational,https://karnatakatourism.org/wp-content/uploads/2020/06/Panambur-Beach-800x450-1.jpg,3050,12.876,74.858
+Southern,Karnataka,Bijapur,Gol Gumbaz,Mausoleum,20,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gol_Gumbaj2.JPG/640px-Gol_Gumbaj2.JPG,4000,16.8292,75.7139
+Western,Maharastra,Nagpur,Deekshabhoomi,Monument,0,Religious,https://upload.wikimedia.org/wikipedia/commons/3/38/Deekshabhoomi_-_panoramio.jpg,2050,21.1469,79.0882
+Central,Madhya Pradesh,Gwalior,Gwalior Fort,Fort,75,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Gwalior_Fort_front.jpg/1200px-Gwalior_Fort_front.jpg,4000,26.2183,78.1828
+Central,Madhya Pradesh,Jabalpur,Dhuandhar Falls,Waterfall,0,Nature,https://upload.wikimedia.org/wikipedia/commons/d/d0/Dhuandhar_Waterfalls_in_Bhedaghat%2C_India.jpg,3050,23.1783,79.9275
+Central,Madhya Pradesh,Kanha,Kanha National Park,Wildlife Sanctuary,100,Wildlife,https://upload.wikimedia.org/wikipedia/commons/1/1f/Tiger_Kanha_National_Park.jpg,4000,22.4269,80.3833
+Central,Madhya Pradesh,Bandhavgarh,Bandhavgarh National Park,National Park,50,Wildlife,https://www.bandhavgarh.net/wp-content/uploads/2023/03/bandhavgarh-national-park-gate.webp,4000,23.6917,81.0394
+Northern,Himachal Pradesh,Dalhousie,Khajjiar Lake,Lake,0,Nature,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Khajjiar.jpg/1200px-Khajjiar.jpg,3050,32.5886,76.97
+Northern,Himachal Pradesh,Kullu,Great Himalayan National Park,National Park,50,Wildlife,https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Himalayn_National_Park_01.jpg/1200px-Himalayn_National_Park_01.jpg,4000,32.0844,77.5822
+Northern,Himachal Pradesh,Kinnaur,Sangla Valley,Valley,0,Nature,https://www.india.com/wp-content/uploads/2018/08/Sangla-Valley.jpg,3050,31.415,78.3667
+Northern,Himachal Pradesh,Narkanda,Hatu Peak,Viewpoint,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/cd/de/8c/hatu-peak.jpg?w=1200&h=-1&s=1,3050,31.6033,77.4311
+Northern,Uttarakhand,Haridwar,Har Ki Pauri,Ghat,0,Religious,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Evening_view_of_Har-ki-Pauri%2C_Haridwar.jpg/640px-Evening_view_of_Har-ki-Pauri%2C_Haridwar.jpg,3050,29.9456,78.1642
+Northern,Uttarakhand,Dehradun,Robber's Cave,Cave,25,Nature,https://d1pk12b7bb81je.cloudfront.net/thumbor/o351uGqYDHJbvUVOv7pk1r1-SrE=/full-fit-in/800x800/https://d1pk12b7bb81je.cloudfront.net/okdataengine/appmedia/images/117/117542/Robbers%20Cave%20Oct%202019_LD_5283.jpeg.jpg,4000,30.314,78.122
+Northern,Uttarakhand,Auli,Auli Ski Resort,Ski Resort,0,Adventure,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/f5/86/af/cliff-top-club.jpg?w=1200&h=-1&s=1,3050,30.0996,79.5875
+Central,Uttar Pradesh,Allahabad,Triveni Sangam,Confluence,0,Religious,https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2024/01/05/e5c371fa9c1bbfb486c1a85f7364cd2f_1000x1000.png,3050,25.4358,81.8463
+Northern,Jammu and Kashmir,Anantnag,Amarnath Cave,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/6/66/Cave_Temple_of_Lord_Amarnath.jpg,3050,34.07,75.3667
+Northern,Ladakh,Nubra Valley,Nubra Valley,Valley,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/b9/e6/1c/nubra-valley.jpg?w=1200&h=-1&s=1,3050,34.35,78.5
+Northern,Ladakh,Leh,Khardung La Pass,Hill,0,Adventure,https://peopleoftheplanet.com/wp-content/uploads/2018/10/the-highest-road-in-the-world-snow.png,3050,35.3997,77.5878
+Eastern,West Bengal,Darjeeling,Tiger Hill,Sunrise Point,0,Nature,https://upload.wikimedia.org/wikipedia/commons/d/d8/Tiger_Hill_Darjeeling_West_Bengal_India_%283%29.JPG,4050,27.031,88.264
+Eastern,West Bengal,Digha,Digha Beach,Beach,0,Recreational,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/00/60/71/digha-beach.jpg?w=1200&h=1200&s=1,4050,21.621,87.523
+Eastern,West Bengal,Murshidabad,Hazarduari Palace,Palace,10,Historical,https://upload.wikimedia.org/wikipedia/commons/e/e8/Hazarduari01_debaditya_chatterjee.jpg,5000,24.195,88.271
+Eastern,West Bengal,Cooch Behar,Cooch Behar Palace,Palace,20,Historical,https://upload.wikimedia.org/wikipedia/commons/8/81/The_Cooch_Behar_Palace_or_the_Cooch_Behar_Rajbari%2C_Cooch_Behar_District%2C_West_Bengal%2C_India_01.jpg,5000,26.3272,89.448
+Eastern,West Bengal,Purulia,Ayodhya Hills,Hill,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/7c/8f/6f/ajodhya-hill-area.jpg?w=1200&h=1200&s=1,4050,23.717,85.314
+Eastern,Odisha,Rourkela,Khandadhar Waterfall,Waterfall,0,Nature,https://upload.wikimedia.org/wikipedia/commons/6/68/Khandadhar_Waterfall.jpg,4050,21.9072,84.8592
+Eastern,Odisha,Cuttack,Barabati Fort,Fort,0,Historical,https://upload.wikimedia.org/wikipedia/commons/9/95/Entrance_of_Barabati_fort.jpg,4050,20.462,85.882
+Eastern,Odisha,Sambalpur,Hirakud Dam,Dam,0,Engineering Marvel,https://upload.wikimedia.org/wikipedia/commons/0/00/Hirakud_Dam.jpg,4050,21.46,83.97
+Southern,Andhra Pradesh,Visakhapatnam,Rishikonda Beach,Beach,0,Recreational,https://upload.wikimedia.org/wikipedia/commons/a/a5/Rushikonda_beach_view_001.jpg,3050,17.725,83.313
+Southern,Andhra Pradesh,Kadapa,Gandikota Fort,Fort,0,Historical,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/4a/20/f2/grand-canyon-of-india.jpg?w=1200&h=1200&s=1,3050,14.8134,78.2848
+Southern,Andhra Pradesh,Visakhapatnam,Kailasagiri,Hill,0,Recreational,https://upload.wikimedia.org/wikipedia/commons/7/7a/Kailasagiri.jpg,3050,17.7358,83.3094
+Southern,Andhra Pradesh,Visakhapatnam,Borra Caves,Cave,60,Natural Wonder,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9d/80/6a/borra-caves.jpg?w=1200&h=1200&s=1,4000,18.167,83
+North Eastern,Assam,Kaziranga,Kaziranga National Park,National Park,650,Wildlife,https://upload.wikimedia.org/wikipedia/commons/f/fe/Beauty_of_Kaziranga_National_Park.jpg,4500,26.655,93.16
+North Eastern,Assam,Hajo,Hayagriva Madhava Temple,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/c/c7/Hagriva_Madhava_Temple_side_view2.jpg,3550,26.65,93.15
+North Eastern,Tripura,Agartala,Ujjayanta Palace,Palace,10,Historical,https://upload.wikimedia.org/wikipedia/commons/c/c8/Ujjayanta_palace_Tripura_State_Museum_Agartala_India.jpg,4500,23.831,91.286
+North Eastern,Tripura,Dumboor,Dumboor Lake,Lake,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/9e/e0/9c/dumbor-lake.jpg?w=1200&h=-1&s=1,3550,23.35,91.6
+North Eastern,Tripura,Unakoti,Unakoti Rock Carvings,Rock Carvings,20,Historical,https://upload.wikimedia.org/wikipedia/commons/f/f0/Unakoti_3.jpg,4500,24.65,92.8
+Southern,Puducherry,Puducherry,Promenade Beach,Beach,0,Recreational,https://static.toiimg.com/photo/48552994.cms,3050,11.934,79.83
+Southern,Puducherry,Puducherry,Paradise Beach,Beach,200,Recreational,https://www.paradisebeachcozumel.com/sites/default/files/styles/565_675_focal_point/public/2024-01/sup-fun-pass-paradise-beach-cozumel.png.webp?itok=yJHeAnrJ,4000,11.937,79.821
+Southern,Andaman and Nicobar Islands,Neil Island,Bharatpur Beach,Beach,0,Nature,http://be.discoverandaman.in/storage/uploads/2024/2/8e7965b3-74e6-478a-bcda-088346037edd.jpeg,3050,13.467,92.766
+Western,Daman and Diu,Diu,Naida Caves,Cave,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/a3/00/53/img-20161116-140018-largejpg.jpg?w=1200&h=-1&s=1,2050,20.711,70.981
+Southern,Karnataka,Bengaluru,Wonderla Amusement Park,Amusement Park,890,Entertainment,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/b4/a3/72/flash-tower-is-a-shoot.jpg?w=1200&h=1200&s=1,4068,12.913,77.552
+Northern,Delhi,Delhi,National Science Centre,Science,70,Scientific,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/a7/60/38/nice-experience.jpg?w=1200&h=1200&s=1,4000,28.612,77.229
+Western,Maharastra,Mumbai,Haji Ali Dargah,Religious Shrine,0,Religious,https://upload.wikimedia.org/wikipedia/commons/c/ca/Mumbai_03-2016_12_Haji_Ali_Dargah.jpg,2050,18.938,72.823
+Southern,Karnataka,Bangalore,Lalbagh Botanical Garden,Botanical Garden,20,Nature,https://upload.wikimedia.org/wikipedia/commons/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg,4000,12.95,77.584
+Southern,Karnataka,Bangalore,Cubbon Park,Park,0,Nature,https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/22/b22be5abb14d39eb918bf2f3e91af4de_1000x1000.jpg,3050,12.976,77.593
+Southern,Telangana,Hyderabad,Golconda Fort,Fort,30,Historical,https://upload.wikimedia.org/wikipedia/commons/5/56/Golconda_Fort_005.jpg,4000,17.3833,78.4016
+Southern,Telangana,Hyderabad,Ramoji Film City,Film Studio,1150,Entertainment,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/800px-Ramoji_Film_City.jpg,4380,17.25,78.6833
+Southern,Telangana,Hyderabad,Salar Jung Museum,Museum,20,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg/800px-Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg,4000,17.3619,78.4747
+Southern,Telangana,Hyderabad,Qutb Shahi Tombs,Tombs,25,Historical,https://upload.wikimedia.org/wikipedia/commons/0/08/Qutb_Shahi_Tomb_5.jpg,4000,17.365,78.402
+Southern,Telangana,Hyderabad,Chowmahalla Palace,Palace,80,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/800px-Chowmahalla_Palace_01.jpg,4000,17.3667,78.475
+Eastern,West Bengal,Kolkata,Kalighat Kali Temple,Temple,0,Religious,https://www.templepurohit.com/wp-content/uploads/2015/01/Kalighat-Kali-Temple-Kolkata.jpg,4050,22.52,88.355
+Eastern,West Bengal,Kolkata,Science City Kolkata,Science,60,Educational,https://upload.wikimedia.org/wikipedia/commons/0/03/Science_City_Kolkata_4643.JPG,5000,22.569,88.384
+Eastern,West Bengal,Kolkata,Marble Palace,Palace,0,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Marble_Palace-_Kolkata-_West_Bengal-_DSC_0006.jpg/1200px-Marble_Palace-_Kolkata-_West_Bengal-_DSC_0006.jpg,4050,22.5667,88.3583
+Southern,Goa,Goa,Calangute Beach,Beach,0,Scenic,https://s7ap1.scene7.com/is/image/incredibleindia/calangute-beach-goa-7-musthead-hero?qlt=82&ts=1726735078814,3050,15.552,73.743
+Southern,Goa,Goa,Anjuna Beach,Beach,0,Scenic,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Anjuna_Beach%2C_Goa%2C_India%2C_Legendary_Curlies_beach_shack.jpg/640px-Anjuna_Beach%2C_Goa%2C_India%2C_Legendary_Curlies_beach_shack.jpg,3050,15.551,73.743
+Western,Gujarat,Vadodara,Laxmi Vilas Palace,Palace,200,Historical,https://upload.wikimedia.org/wikipedia/commons/b/bd/LakshmiVilas_Palace.jpg,3000,22.303,73.182
+Northern,Rajasthan,Jaipur,Hawa Mahal,Palace,50,Architectural,https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg,4000,26.9238,75.8267
+Northern,Rajasthan,Udaipur,City Palace,Palace,300,Historical,https://upload.wikimedia.org/wikipedia/commons/a/a4/Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg,4000,26.924,75.8267
+Northern,Rajasthan,Jaisalmer,Jaisalmer Fort,Fort,50,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Jaisalmer_forteresse.jpg/1200px-Jaisalmer_forteresse.jpg,4000,26.9124,70.9176
+Northern,Rajasthan,Pushkar,Pushkar Lake,Temple,0,Religious,https://upload.wikimedia.org/wikipedia/commons/c/c3/Evening_lights_by_the_Pushkar_Lake%2C_Pushkar.jpg,3050,26.489,74.551
+Southern,Kerala,Kochi,Fort Kochi,Site,0,Historical,https://upload.wikimedia.org/wikipedia/commons/6/6e/Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg,3050,9.965,76.221
+Southern,Kerala,Kovalam,Kovalam Beach,Beach,0,Recreational,https://upload.wikimedia.org/wikipedia/commons/3/3c/Kovalam_beach_trivandrum_kerala.jpg,3050,8.398,77.035
+Southern,Kerala,Kannur,St. Angelo Fort,Fort,20,Historical,https://upload.wikimedia.org/wikipedia/commons/6/65/Malta_-_Birgu_-_Fort_Saint_Angelo_%28Upper_Barrakka_Gardens%29_01_ies.jpg,4000,11.868,75.355
+Southern,Kerala,Kochi,Kerala Folklore Museum,Cultural,100,Cultural,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/17/1c/49/anthropology-and-ethnography.jpg?w=1200&h=1200&s=1,4000,9.981,76.283
+Southern,Karnataka,Bandipur,Bandipur National Park,National Park,300,Wildlife,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/7c/47/ec/tiger-26-largejpg.jpg?w=1200&h=-1&s=1,4000,11.635,76.533
+Western,Maharastra,Pune,Shaniwar Wada,Fort,50,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Shaniwar_wada_%28pune%29.jpg/1200px-Shaniwar_wada_%28pune%29.jpg,3000,18.5204,73.8567
+Western,Maharastra,Lonavala,Karla Caves,Cave,25,Historical,https://upload.wikimedia.org/wikipedia/commons/f/ff/Karla_caves_Chaitya.jpg,3000,18.762,73.747
+Western,Maharashtra,Satara,Kaas Plateau,Valley,300,Nature,https://upload.wikimedia.org/wikipedia/commons/2/21/Kaas-7016.jpg,3000,17.7251,73.8253
+Western,Maharashtra,Matheran,Echo Point,Viewpoint,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fc/90/4a/viewing-platform-from.jpg?w=1200&h=-1&s=1,2050,10.0206,77.053
+Central,Madhya Pradesh,Indore,Rajwada Palace,Palace,10,Historical,https://upload.wikimedia.org/wikipedia/commons/e/e1/Indore_Rajwada01.jpg,4000,22.7184,75.8552
+Central,Madhya Pradesh,Amarkantak,Narmada Udgam Temple,Temple,0,Religious,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/bb/f0/f6/photo.jpg?w=1200&h=-1&s=1,3050,22.9732,81.7551
+Central,Madhya Pradesh,Chitrakoot,Chitrakoot Falls,Waterfall,0,Nature,https://upload.wikimedia.org/wikipedia/commons/9/91/Chitrakot_waterfalls.JPG,3050,19.2065,81.6999
+Northern,Himachal Pradesh,Chamba,Chamera Lake,Lake,0,Recreational,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/9f/79/82/chamera-lake-also-known.jpg?w=1200&h=-1&s=1,3050,32.5972,75.9858
+Northern,Himachal Pradesh,Kangra,Kangra Fort,Fort,150,Historical,https://upload.wikimedia.org/wikipedia/commons/f/f0/Kangra_Fort_%2CHimachal_Pradesh_06.jpg,4000,32.0998,76.2691
+Northern,Himachal Pradesh,Shoja,Serolsar Lake,Lake,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f9/d3/3f/lake.jpg?w=1200&h=-1&s=1,3050,31.569,77.37
+Northern,Uttarakhand,Rishikesh,Laxman Jhula,Suspension Bridge,0,Cultural,https://upload.wikimedia.org/wikipedia/commons/7/75/Rishikesh-Lakshman_Jhula_by_Kaustubh_Nayyar.jpg,3050,30.1206,78.3087
+Northern,Uttarakhand,Jim Corbett,Jim Corbett National Park,National Park,100,Wildlife,https://upload.wikimedia.org/wikipedia/commons/7/78/Bengal-Tiger_Corbett_Uttarakhand_Dec-2013.jpg,4000,29.5486,78.9353
+Central,Uttar Pradesh,Lucknow,Bara Imambara,Monument,50,Historical,https://static.toiimg.com/thumb/103890956/Bara-Imambara.jpg?width=1200&height=900,4000,26.8606,80.916
+Central,Uttar Pradesh,Jhansi,Jhansi Fort,Fort,15,Historical,https://upload.wikimedia.org/wikipedia/commons/e/e8/Jhansi_Fort.jpg,4000,25.4581,78.5754
+Central,Uttar Pradesh,Fatehpur Sikri,Buland Darwaza,Monument,40,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/800px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg,4000,27.0943,77.6627
+Northern,Ladakh,Hemis,Hemis National Park,National Park,20,Wildlife,https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/13-10-08_217_CONFLUENCE_OF_INDUS_RIVER_N.jpg/1200px-13-10-08_217_CONFLUENCE_OF_INDUS_RIVER_N.jpg,4000,33.854,77.702
+Eastern,West Bengal,Siliguri,Jaldapara National Park,Wildlife Sanctuary,250,Wildlife,https://upload.wikimedia.org/wikipedia/commons/f/f5/Elephant_safari.jpg,5000,26.538,89.383
+Eastern,West Bengal,Sundarbans,Sundarbans National Park,National Park,60,Wildlife,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sundarban_Tiger.jpg/1200px-Sundarban_Tiger.jpg,5000,21.9495,88.7465
+Eastern,West Bengal,Jalpaiguri,Gorumara National Park,National Park,100,Wildlife,https://upload.wikimedia.org/wikipedia/commons/1/1f/Gorumara_Gateway_Arnab_Dutta.JPG,5000,26.968,88.732
+Eastern,Odisha,Kendujhar,Sanaghagara Waterfall,Waterfall,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/72/da/1c/sanaghagara-waterfall.jpg?w=1200&h=1200&s=1,4050,21.756,85.348
+Southern,Andhra Pradesh,Kurnool,Belum Caves,Cave,65,Natural Wonder,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/1c/95/33/group-outing-belum-caves3.jpg?w=1200&h=-1&s=1,4000,15.785,78.073
+Southern,Andhra Pradesh,Guntur,Uppalapadu Bird Sanctuary,Bird Sanctuary,10,Wildlife,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/5f/02/90/uppalapadu-bird-sanctuary.jpg?w=1200&h=-1&s=1,4000,16.516,80.647
+North Eastern,Assam,Guwahati,Pobitora Wildlife Sanctuary,Wildlife Sanctuary,500,Wildlife,https://upload.wikimedia.org/wikipedia/commons/8/82/Indian_Rhino_in_Pobitora.jpg,4500,26.299,92.398
+Southern,Andaman and Nicobar Islands,Baratang Island,Limestone Caves,Natural Feature,250,Nature,https://media.australian.museum/media/dd/images/Ishigaki_ishigakijima_limestone_cave.8181618.width-800.6104bde.jpg,4000,25.574,91.582
+Eastern,Bihar,Patna,Budhha Smriti Park,Park,10,Cultural,https://upload.wikimedia.org/wikipedia/commons/1/1a/Buddha_Smriti_Park.jpg,5000,25.607,85.126
+Northern,Haryana,Gurugram,Kingdom of Dreams,Entertainment,1100,Entertainment,https://upload.wikimedia.org/wikipedia/commons/6/68/Culture_Gully_and_Nautanki_Mahal_auditorium%2C_Kingdom_of_Dreams%2C_Gurgaon.jpg,4320,28.4595,77.03
+Northern,Rajasthan,Jaipur,City Palace,Palace,200,Historical,https://upload.wikimedia.org/wikipedia/commons/a/a4/Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg,4000,26.924,75.8267
+Western,Maharastra,Mumbai,Sanjay Gandhi National Park,National Park,50,Wildlife,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Entrance_of_Sanjay_Gandhi_National_Park.JPG/284px-Entrance_of_Sanjay_Gandhi_National_Park.JPG,3000,19.228,72.935
+Western,Maharastra,Mumbai,Chowpatty Beach,Beach,0,Recreational,https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/18/a0/dc.jpg,2050,18.939,72.814
+Western,Maharastra,Mumbai,Essel World,Amusement Park,1149,Recreational,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Thunder%2C_Esselworld.jpg/1200px-Thunder%2C_Esselworld.jpg,3378.8,19.232,72.806
+Western,Maharastra,Mumbai,Elephanta Caves,Monument,550,Historical,https://whc.unesco.org/uploads/thumbs/site_0244_0004-750-750-20100705114254.jpg,3000,18.9633,72.9314
+Southern,Telangana,Hyderabad,Hussain Sagar Lake,Lake,0,Scenic,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Buddha_statue_11102016.jpg/270px-Buddha_statue_11102016.jpg,3050,17.4239,78.4738
+Eastern,West Bengal,Kolkata,Alipore Zoological Gardens,Zoo,25,Wildlife,https://www.getbengal.com/uploads/story_image/Alipore-Zoo-Born.jpg,5000,22.5359,88.332
+Southern,Goa,Goa,Colva Beach,Beach,0,Scenic,https://upload.wikimedia.org/wikipedia/commons/0/06/Colv%C3%A1_beach.jpg,3050,15.2723,73.9171
+Southern,Kerala,Munnar,Munnar Tea Gardens,Scenic Area,0,Nature,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e9/52/a2/sunset-at-tata-tea-gardens.jpg?w=900&h=500&s=1,3050,10.0797,77.0614
+Southern,Kerala,Thekkady,Periyar National Park,National Park,50,Wildlife,https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Periyar_National_Park.JPG/800px-Periyar_National_Park.JPG,4000,9.55,77.25
+Northern,Uttarakhand,Almora,Binsar Wildlife Sanctuary,Wildlife Sanctuary,150,Wildlife,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/07/0b/38/the-road-takes-you-deeper.jpg?w=1200&h=1200&s=1,4000,29.7064,79.7561
+Central,Uttar Pradesh,Noida,Okhla Bird Sanctuary,Bird Sanctuary,30,Wildlife,https://upload.wikimedia.org/wikipedia/commons/0/0b/Okhla_bird_sanctuary_Entrance.jpeg,4000,28.5454,77.2833
+Northern,Jammu and Kashmir,Kishtwar,Kishtwar National Park,National Park,100,Wildlife,https://upload.wikimedia.org/wikipedia/commons/0/0b/Sunrise_in_Kishtwar_National_Park%2C_Jammu_and_Kashmir%2C_India.jpg,4000,33.6006,75.989
+Eastern,Odisha,Keonjhar,Badaghagara Waterfall,Waterfall,0,Nature,https://upload.wikimedia.org/wikipedia/commons/5/55/Badaghagara_Kendujhar.jpg,4050,21.6089,85.5557
+Southern,Andhra Pradesh,Rajahmundry,Papikondalu,Hill,0,Nature,https://papikondalu.net.in/assets/images/papikondalu-tour-1200x800.jpg,3050,17.25,81.5
+Eastern,Sikkim,Gangtok,Nathula Pass,Hill,20,Historical,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/3c/94/7e/pass-of-listening-ears.jpg?w=900&h=500&s=1,5000,27.3864,88.8318
+Eastern,Bihar,Patna,Sanjay Gandhi Biological Park,Zoo,30,Wildlife,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sanjay_Gandhi_Jaivik_Udyan.jpg/1200px-Sanjay_Gandhi_Jaivik_Udyan.jpg,5000,25.5993,85.0988
+Northern,Delhi,Delhi,Jantar Mantar,Observatory,15,Scientific,https://upload.wikimedia.org/wikipedia/commons/b/b8/Jantar_Mantar%2C_New_Delhi_%28Misra_Yantra%29.jpg,4000,28.6229,77.2099
+Northern,Delhi,Delhi,Chandni Chowk,Market,0,Market,"https://media.cnn.com/api/v1/images/stellar/prod/gurudwara-sis-ganj-and-the-golden-mosque-next-to-it.jpg?c=16x9&q=h_833,w_1480,c_fill",3050,28.6505,77.23
+Northern,Delhi,Delhi,Agrasen ki Baoli,Stepwell,0,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Agrasen_ki_Baoli%2C_New_Delhi%2C_India_-_20070127.jpg/800px-Agrasen_ki_Baoli%2C_New_Delhi%2C_India_-_20070127.jpg,3050,28.634,77.219
+Southern,Karnataka,Bangalore,Bangalore Palace,Palace,500,Historical,https://upload.wikimedia.org/wikipedia/commons/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg,4000,12.998,77.571
+Southern,Telangana,Hyderabad,Nehru Zoological Park,Zoo,50,Wildlife,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/51/16/34/nehru-zoological-park.jpg?w=1200&h=-1&s=1,4000,17.352,78.474
+Southern,Goa,Goa,Fort Aguada,Fort,0,Historical,https://upload.wikimedia.org/wikipedia/commons/a/ad/Fort_aguada.jpg,3050,15.519,73.802
+Southern,Goa,Goa,Chapora Fort,Fort,0,Historical,https://upload.wikimedia.org/wikipedia/commons/3/35/Fort_Chapora_26012016.jpg,3050,15.535,73.736
+Southern,Goa,Goa,Miramar Beach,Beach,0,Scenic,https://www.beachblueproperties.com/wp-content/uploads/2024/03/miramar_beach_shutterstock-1350x900.jpg,3050,15.498,73.812
+Western,Maharastra,Alibaug,Alibaug Beach,Beach,0,Recreational,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/46/6b/0a/alibaug.jpg?w=1200&h=-1&s=1,2050,18.6,72.8833
+Northern,Uttarakhand,Nainital,Naini Lake,Lake,0,Nature,https://upload.wikimedia.org/wikipedia/commons/2/28/The_Boat_and_The_Lake.jpg,3050,29.3916,79.454
+Northern,Uttarakhand,Mussoorie,Kempty Falls,Waterfall,15,Nature,https://www.justahotels.com/wp-content/uploads/2024/03/kempty-falls-scaled.jpeg,4000,30.4514,78.258
+Central,Uttar Pradesh,Kanpur,Allen Forest Zoo,Zoo,150,Wildlife,https://upload.wikimedia.org/wikipedia/commons/d/d0/Oskanpur-2.jpg,4000,26.47,80.345
+Eastern,Odisha,Balasore,Chandipur Beach,Beach,0,Recreational,https://static.toiimg.com/photo/47121490.cms,4050,21.49,87.073
+Southern,Tamil Nadu,Yercaud,Yercaud Lake,Lake,0,Recreational,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/13/4d/52/20171022120346-img-1018.jpg?w=1200&h=-1&s=1,3050,11.7833,78.2167
+Northern,Delhi,Delhi,Waste to Wonder Park,Theme Park,50,Environmental,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/aa/20/2c/made-by-cupboard-sheets.jpg?w=1200&h=-1&s=1,4000,28.5355,77.271
+Northern,Delhi,Delhi,Garden of Five Senses,Park,35,Botanical,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/32/8b/e9/nipunsagarofficial-5.jpg?w=1200&h=-1&s=1,4000,28.5294,77.206
+Southern,Telangana,Hyderabad,Lumbini Park,Park,20,Recreational,https://upload.wikimedia.org/wikipedia/commons/c/c2/Lumbini_Park%2C_Hyderabad.jpg,4000,17.426,78.475
+Eastern,West Bengal,Kolkata,Eden Gardens,Cricket Ground,2500,Sports,https://upload.wikimedia.org/wikipedia/commons/7/73/%E0%A6%87%E0%A6%A1%E0%A7%87%E0%A6%A8_%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%87_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%93_%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE_%E0%A7%AB.jpg,7000,22.56,88.351
+Southern,Karnataka,Coorg,Abbey Falls,Waterfall,0,Nature,https://upload.wikimedia.org/wikipedia/commons/7/7a/Abbey_Falls_New.jpg,3050,12.426,75.748
+Western,Maharastra,Nashik,Sula Vineyards,Vineyard,300,Recreational,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3f/8e/3d/a-view-from-the-vineyards.jpg?w=1200&h=-1&s=1,3000,20.056,73.753
+Northern,Himachal Pradesh,Manali,Solang Valley,Valley,0,Adventure,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/b2/79/37/solang-valley-manali.jpg?w=1200&h=-1&s=1,3050,32.322,77.21
+Central,Uttar Pradesh,Aligarh,Aligarh Fort,Fort,20,Historical,https://upload.wikimedia.org/wikipedia/commons/7/74/Aligarh_fort%2C_Aligarh.jpg,4000,27.897,78.08
+Northern,Jammu and Kashmir,Udhampur,Patnitop Height,Hill,0,Recreational,https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201301031541242571-104aecda4fbc11e9a5c70242ac110003.jpg,3050,33.283,75.38
+Central,Uttar Pradesh,Mathura,Nand Gaon,Village,0,Cultural,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/a5/1d/8d/nandgaon-temple.jpg?w=900&h=500&s=1,3050,27.582,77.119
+Southern,Tamil Nadu,Ooty,Ooty Lake,Lake,10,Recreational,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/72/6e/a0/ooty-lake.jpg?w=1200&h=1200&s=1,4000,11.413,76.693
+North Eastern,Assam,Guwahati,Umananda Island,Island,0,Nature,https://upload.wikimedia.org/wikipedia/commons/4/4b/Umananda_Island%2C_Guwahati_%284%29.jpg,3550,26.144,91.736
+Southern,Puducherry,Auroville,Auroville,Township,0,Cultural,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Auroville.JPG/1200px-Auroville.JPG,3050,12,79.8
+Northern,Uttarakhand,Ranikhet,Chaubatia Gardens,Orchard,50,Recreational,https://static.toiimg.com/photo/59142289.cms,4000,29.489,79.235
+Southern,Kerala,Kozhikode,Kozhikode Beach,Beach,0,Recreational,https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fkozhikode-beach-1724136273_4f4e219404e64aa92290.webp&w=3840&q=75,3050,11.258,75.78
+Central,Madhya Pradesh,Mandu,Jahaz Mahal,Site,50,Historical,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Front_view_of_Jahaz_Mahal%2C_Mehrauli.jpg/1200px-Front_view_of_Jahaz_Mahal%2C_Mehrauli.jpg,4000,23.185,77.53
+Eastern,Odisha,Chilika,Chilika Lake,Lake,0,Nature,https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Birds_eyeview_of_Chilika_Lake.jpg/640px-Birds_eyeview_of_Chilika_Lake.jpg,4050,19.798,85.555
+Southern,Tamil Nadu,Chennai,Marina Beach,Beach,0,Recreational,https://upload.wikimedia.org/wikipedia/commons/d/d9/Chennai_-_bird%27s-eye_view.jpg,3050,13.067,80.282
+Southern,Tamil Nadu,Kodaikanal,Kodaikanal Lake,Lake,0,Recreational,https://upload.wikimedia.org/wikipedia/commons/c/c4/Kodaikanal_lake.jpg,3050,10.233,77.49
+Southern,Kerala,Kumarakom,Kumarakom Bird Sanctuary,Bird Sanctuary,50,Wildlife,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/33/ab/f4/les-sentiers.jpg?w=1200&h=-1&s=1,4000,9.6,76.533
+Northern,Himachal Pradesh,Kufri,Kufri Fun World,Ski Resort,1500,Recreational,https://i.ytimg.com/vi/W_7-8Bx9_Wk/maxresdefault.jpg,4800,31.098,77.4
+Northern,Ladakh,Leh,Magnetic Hill,Gravity Hill,0,Nature,https://upload.wikimedia.org/wikipedia/commons/4/45/Magnetic_Hill%2C_Leh.jpg,3050,34.3,77.7
+Western,Maharastra,Lonavala,Imagicaa,Amusement Park,1149,Recreational,https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Adlabs_Imagica_2013_%2810364145606%29.jpg/1200px-Adlabs_Imagica_2013_%2810364145606%29.jpg,3378.8,18.938,73.251
+Western,Gujarat,Ahmedabad,Sabarmati Riverfront,Scenic Spot,0,Recreational,https://upload.wikimedia.org/wikipedia/commons/d/d0/Sabarmati_1_Madhur.jpg,100,23.0289,72.5727
+Western,Gujarat,Ahmedabad,Dada Hari Wav,Historical Site,20,Architectural,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gujarattourism.com%2Fcentral-zone%2Fahmedabad%2Fdada-harir-ni-vav.html&psig=AOvVaw1WzGPDt_ttWc1rxTHel3lp&ust=1743837300828000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjolqnqvYwDFQAAAAAdAAAAABAE,1050,23.0402692,72.605416
+Western,Gujarat,Kevadia,Statue of Unity,Monument,150,Cultural,https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.soutickets.in%2F&psig=AOvVaw0uRqfLr1sypa6_MAUNfz9J&ust=1743837333649000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiGrrjqvYwDFQAAAAAdAAAAABAE,1050,21.8385,73.7193
+Western,Gujarat,Ahmedabad,Swaminarayan Temple,Temple,0,Religious,https://www.seawatersports.com/images/places/swaminarayan-temple-in-gujarat.png,100,23.0298,72.5916
+Western,Gujarat,Ahmedabad,Sabarmati Ashram,Museum,0,Historical,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6vZhVt77-o6JsZsSH_bFuZSvAxPo7wGbWjg&s,100,23.0607,72.5803
+Western,Gujarat,Ahmedabad,Rani ki Vav,Stepwell,40,Architectural,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5pvfv7FakPI3_v-Akjk_BAPXNAlq8hAJYw&s,1050,23.8589,72.1019
+Western,Gujarat,Ahmedabad,Adalaj Step Well,Stepwell,25,Architectural,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxpyFJN1T2srENNscC8fAO2pnOmcRDrT6zYw&s,1050,23.167,72.5802
+Western,Gujarat,Ahmedabad,Kankaria Lake,Lake,10,Recreational,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV4EEoXQc2ak_HUiaBnCkcQ9LhSWZYFWtm7Q&s,1050,23.0063,72.6026
+Western,Gujarat,Ahmedabad,Manek Chawk,Market,0,Food Street,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFA3Vt4DusRsfEfvouOx1YpKq0iU1zjgsxFw&s,100,23.0234,72.587
+Western,Gujarat,Ahmedabad,Modhera Sun Temple,Temple,25,Architectural,"https://assets.architecturaldigest.in/photos/659561d70b94c63c3301b5ba/16:9/w_5472,h_3078,c_limit/22%2010%2013%20ILDL%20MODHERA%20SUN%20TEMPLE%20%C2%A9%20NOUGHTS%20AND%20CROSSES%20103_1.jpg",1050,23.5836,72.133
+Western,Gujarat,Ahmedabad,Bhadra Fort & Teen Darwaza,Fort,0,Historical,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI7Kmu-iRgIZaQbP0kzUw6ZyQUWfXkYoMBLg&s,100,23.0242,72.5846
+Western,Gujarat,Ahmedabad,Jama Masjid,Mosque,0,Religious,https://hectindia.s3.amazonaws.com/0000/6/2024/04/21/jama-masjid-delhi-india.webp,100,23.023893,72.587129
+Western,Gujarat,Ahmedabad,World Vintage Car Museum,Museum,100,Automobile History,https://images.overdrive.in/wp-content/uploads/2017/03/Auto-World-Ahmedabad-Bhogilal-Museum-3.jpg,1050,23.057348,72.6854
+Western,Gujarat,Ahmedabad,Hathisingh Jain Temple,Temple,0,Religious,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThPXgb14es4u4aQT6APrq0E2EI3ljwzrM8eA&s,100,23.0411,72.5895
+Western,Gujarat,Ahmedabad,Law Garden Night Market,Market,0,Shopping,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOqFzIoDnM8AVX1QV30UcMe0zVPWQVdFTKQ&s,100,23.0264,72.5608
+Western,Gujarat,Ahmedabad,Sidi Saiyyed Mosque,Mosque,0,Architectural,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYH7dohvo69a0U-Ecv_sC9GkiA7-Kan_s0WQ&s,100,23.0271,72.581
+Western,Gujarat,Ahmedabad,City Shopping,Market,0,Shopping,https://gujarat.mallsmarket.com/sites/default/files/photos/malls/10AcresMall-Ahmedabad-1.JPG,100,23.033863,72.585022
+Western,Gujarat,Ahmedabad,Calico Textile Museum,Museum,0,Textile History,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRStc71PIhF6b_B2kJzo2eCNKBvOcnDSRjhg&s,100,23.0543,72.5922
+Western,Gujarat,Ahmedabad,Sardar Vallabhai Patel National Museum,Museum,20,Historical,https://i.pinimg.com/736x/12/18/17/1218177a5a0fd67836e6246b3e4fa9ff.jpg,1050,23.0611,72.591
+Western,Gujarat,Ahmedabad,Jhulta Minar,Monument,0,Architectural,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvOmJd8HCQ9Z52CUh6EYA8lvGN37ES9xEcA&s,100,23.0143,72.6142
+Western,Gujarat,Ahmedabad,Vaishnodevi Temple,Temple,0,Religious,https://s7ap1.scene7.com/is/image/incredibleindia/1-vaishno-devi-jammu-jk-attr-hero?qlt=82&ts=1726729280423,100,23.1378,72.5437
+Western,Gujarat,Ahmedabad,Kamala Nehru Zoo,Zoo,20,Wildlife,https://media-cdn.tripadvisor.com/media/photo-s/05/80/f3/48/kamla-nehru-zoo.jpg,1050,23.0087,72.6035
+Western,Gujarat,Ahmedabad,Alpha One Mall,Mall,0,Shopping,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_KPdbHvoXe31AG1CRTarBTgXgf-oWaxZvig&s,100,23.0364,72.5611
+Western,Gujarat,Ahmedabad,Lal Darwaza,Market,0,Shopping,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MtPTeNyMDmdxbFlseZaSe5WluTBM3DfMMA&s,100,23.0264,72.5819
+Western,Gujarat,Ahmedabad,ISKCON Temple,Temple,0,Religious,https://yometro.com/images/places/iskcon-temple-ahmedabad.jpg,100,23.0256,72.5072
+Western,Gujarat,Ahmedabad,Banascraft,Handicrafts,0,Shopping,https://www.holidify.com/images/cmsuploads/square/Dhalgarwad_20180216135322.jpg,100,23.038,72.5617
+Western,Gujarat,Ahmedabad,Law Garden,Garden,0,Recreational,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXkK_OPq_alxhs9DSN27K1lcAxml9pnYtV2g&s,100,23.0273,72.5607
+Western,Gujarat,Ahmedabad,Kapasi Handicraft Emporium,Handicrafts,0,Shopping,https://dt4f7ywfipgvt.cloudfront.net/assets/13-gallery-4.jpg,100,23.0332,72.5499
+Western,Gujarat,Ahmedabad,Lalbhai Dalpatbhai Museum,Museum,10,Art and Manuscripts,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9l2QUGJ70lParJaErzlRJ3-1HZ71ZNcey7A&s,1050,23.033166,72.549895
+Western,Gujarat,Ahmedabad,Tomb of Ahmed Shah's Mosque,Mosque,0,Religious,https://upload.wikimedia.org/wikipedia/commons/7/7c/Toms_of_Ahamed_Shah_Abdali.jpg,100,23.0126,72.3517
+Western,Gujarat,Ahmedabad,R3 The Mall,Mall,0,Shopping,https://files.yappe.in/place/full/r3-the-mall-2012927.webp,100,23.0465,72.5404
+Western,Gujarat,Ahmedabad,Radhe Shopping Mall,Mall,0,Shopping,https://content.jdmagicbox.com/comp/ahmedabad/q3/079pxx79.xx79.180103180028.h6q3/catalogue/osia-shopping-mall-maninagar-east-ahmedabad-supermarkets-0ibizup2cg.jpg,100,23.0017,72.6186
+Western,Gujarat,Ahmedabad,Dada Bhagwan temple,Temple,0,Religious,https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/bf/3b/a6/dada-bhagwan-temple.jpg?w=1200&h=-1&s=1,100,23.17,72.58
+Western,Gujarat,Ahmedabad,Gujarat Science City,Science Center,50,Educational,https://travelsetu.com/apps/uploads/new_destinations_photos/destination/2023/12/19/8f1caa2788ab911408aecbc9d1646523_1000x1000.jpg,1050,23.0802,72.4969
+Western,Gujarat,Ahmedabad,Shree Camp Hanuman Mandir,Temple,0,Religious,https://cdn2.advanceinfotech.org/bharatdirectory.in/1200x675/business/4039/shree-humanji-2-1713952477.webp,100,23.0679,72.6039
+Western,Gujarat,Ahmedabad,Parimal Garden,Garden,0,Recreational,https://assets.architecturaldigest.in/photos/65e8115a3e10df6101c05a6c/master/w_1600%2Cc_limit/Parimal%2520Garden%2520Day%25203%2520Q2-1021948-Enhanced-NR.jpg,100,23.0203,72.5562
+Western,Gujarat,Ahmedabad,Lothal,Archaeological Site,25,Historical,https://www.re-thinkingthefuture.com/wp-content/uploads/2024/01/1.-Lothal-Ahmedabad-in-Gujarat-cover_900_584.jpg?w=999,1050,22.5229,72.2494
+Western,Gujarat,Ahmedabad,Sarkhej Roza,Monument,0,Architectural,https://upload.wikimedia.org/wikipedia/commons/9/90/Sarkhej.JPG,100,22.9936,72.5056
+Western,Gujarat,Ahmedabad,Nehru Bridge,Bridge,0,Landmark,https://ahmedabadtourism.in/images/places-to-visit/headers/nehru-bridge-ahmedabad-tourism-entry-fee-timings-holidays-reviews-header.jpg,100,23.137,72.3429
+Western,Gujarat,Ahmedabad,Vastrapur Lake,Lake,0,Recreational,"https://static.toiimg.com/thumb/msid-105693279,width-400,height-225,resizemode-72/105693279.jpg",100,23.0384,72.5288
+Western,Gujarat,Ahmedabad,Kite Museum,Museum,10,Cultural,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gujarattourism.com%2Fcentral-zone%2Fahmedabad%2Fkite-musuem.html&psig=AOvVaw1OsdKXdvfkLTlpqXUCxELW&ust=1743837182798000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiOmfDpvYwDFQAAAAAdAAAAABAE,1050,23.0047,72.341
+Western,Gujarat,Ahmedabad,Vechaar Utensils Museum,Museum,10,Cultural,https://www.google.com/url?sa=i&url=https%3A%2F%2Fahmedabadtourism.in%2Fvechaar-utensils-museum-ahmedabad&psig=AOvVaw1rLrwk9DsDxFH9fkPyjNiq&ust=1743837138051000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICv1dvpvYwDFQAAAAAdAAAAABAE,1050,22.99444,72.53573
+Western,Gujarat,Ahmedabad,Sanskar Kendra,Museum,10,Cultural,https://www.google.com/url?sa=i&url=https%3A%2F%2Farcheyes.com%2Fsanskar-kendra-city-museum-by-le-corbusier%2F&psig=AOvVaw1jnU6hQZj4t8LMc1Q1aVCb&ust=1743837101276000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi27MnpvYwDFQAAAAAdAAAAABAE,1050,23.0131,72.5693
+Western,Gujarat,Ahmedabad,Vadla,Lake,0,Bird Watching,https://www.google.com/url?sa=i&url=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fcity%2Fahmedabad%2Fgujarat-vadla-to-soon-be-conservation-zone%2Farticleshow%2F79504428.cms&psig=AOvVaw1qVn32ih32SOH0UPBFy8mU&ust=1743837030601000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDlranpvYwDFQAAAAAdAAAAABAE,100,19.0149,72.8631
+Western,Gujarat,Ahmedabad,Ahmedabad One,Mall,0,Shopping,https://images.app.goo.gl/eNBVUnJYSTYkatQ5A,100,23.0401,72.5315
+Western,Gujarat,Ahmedabad,Victoria Garden,Garden,0,Recreational,https://www.landscapeindia.net/beta/api/uploads/media/639318dc9cc61.jpeg,100,23.0219,72.5795
+Western,Gujarat,Ahmedabad,Dhanvantari Garden,Garden,0,Recreational,https://www.holidify.com/places/ahmedabad/dhanvantari-garden-sightseeing-1253360.html,100,23.0035,72.5594
+Western,Gujarat,Ahmedabad,AUDA Garden,Garden,0,Recreational,https://www.holidify.com/places/ahmedabad/auda-garden-sightseeing-1253361.html,100,23.0407,72.5145
+Western,Gujarat,Ahmedabad,Usmanpura Garden,Garden,0,Recreational,https://images.app.goo.gl/A9zPYaAezhfjxN5J6,100,23.0475,72.5722
+Western,Gujarat,Ahmedabad,Gotila Garden-Talav,Garden,0,Recreational,https://www.holidify.com/places/ahmedabad/gotila-gardentalav-sightseeing-1253363.html,100,23.03989,72.49509
+Western,Gujarat,Ahmedabad,Bansidhar Garden,Garden,0,Recreational,https://images.app.goo.gl/wmoELgRH1D4QYje36,100,23.0002,72.5546
+Western,Gujarat,Ahmedabad,One Tree Hill Garden,Garden,0,Recreational,https://www.holidify.com/places/ahmedabad/one-tree-hill-garden-sightseeing-1253365.html,100,23.0063,72.6034

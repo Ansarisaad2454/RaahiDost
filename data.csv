@@ -1,0 +1,501 @@
+name,type,avg_cost,best_season
+Udaipur 0,adventure,6186,monsoon
+Kerala 1,adventure,12038,winter
+Varkala 2,hill station,15512,monsoon
+Udaipur 3,hill station,17842,winter
+Leh 4,heritage,23529,monsoon
+Ashtamudi 5,backwaters,6574,monsoon
+Hampi 6,hill station,15823,summer
+Poovar 7,heritage,6691,monsoon
+Manali 8,backwaters,18525,winter
+Diu 9,beach,16238,winter
+Coorg 10,heritage,22508,winter
+Zanskar 11,hill station,21128,summer
+Munnar 12,adventure,20005,monsoon
+Pondicherry 13,beach,6420,winter
+Diu 14,beach,20469,monsoon
+Poovar 15,backwaters,24645,monsoon
+Jaipur 16,heritage,12684,summer
+Jaipur 17,heritage,7864,summer
+Spiti 18,heritage,6581,winter
+Agra 19,backwaters,23152,summer
+Udaipur 20,backwaters,9693,monsoon
+Kumarakom 21,hill station,22084,monsoon
+Tirthan 22,heritage,17037,winter
+Poovar 23,heritage,8388,monsoon
+Diu 24,beach,21453,summer
+Alibaug 25,adventure,16778,winter
+Munnar 26,beach,20357,monsoon
+Manali 27,adventure,21676,winter
+Pondicherry 28,heritage,17384,winter
+Ashtamudi 29,hill station,14656,summer
+Khajuraho 30,backwaters,6647,monsoon
+Pondicherry 31,heritage,11384,monsoon
+Tirthan 32,backwaters,19883,winter
+Shimla 33,hill station,18680,monsoon
+Diu 34,hill station,20339,monsoon
+Tirthan 35,beach,19211,winter
+Goa 36,adventure,23033,winter
+Poovar 37,backwaters,10021,winter
+Kerala 38,hill station,10964,monsoon
+Varkala 39,backwaters,14142,winter
+Orchha 40,heritage,14163,winter
+Poovar 41,beach,8151,monsoon
+Coorg 42,hill station,6599,winter
+Diu 43,hill station,8954,winter
+Alibaug 44,hill station,7964,monsoon
+Kumarakom 45,hill station,20633,summer
+Khajuraho 46,beach,13409,summer
+Manali 47,beach,6521,monsoon
+Pondicherry 48,heritage,19116,summer
+Bir 49,hill station,22587,summer
+Rishikesh 50,backwaters,9471,summer
+Agra 51,adventure,24065,monsoon
+Mussoorie 52,adventure,23225,monsoon
+Pondicherry 53,beach,19963,winter
+Ashtamudi 54,backwaters,23550,winter
+Kumarakom 55,beach,7883,monsoon
+Khajuraho 56,heritage,19146,summer
+Pondicherry 57,beach,14869,winter
+Kumarakom 58,beach,23688,winter
+Hampi 59,adventure,9759,monsoon
+Tirthan 60,beach,21453,summer
+Diu 61,hill station,20954,monsoon
+Spiti 62,adventure,18147,summer
+Udaipur 63,adventure,23597,summer
+Alleppey 64,heritage,19277,winter
+Gokarna 65,beach,13852,summer
+Khajuraho 66,hill station,24812,winter
+Coorg 67,heritage,20227,summer
+Orchha 68,beach,9315,monsoon
+Orchha 69,beach,11319,summer
+Goa 70,heritage,24807,winter
+Nainital 71,hill station,17938,summer
+Bir 72,heritage,18246,summer
+Poovar 73,hill station,21554,monsoon
+Poovar 74,heritage,6558,summer
+Khajuraho 75,hill station,12108,winter
+Jaipur 76,hill station,7404,winter
+Poovar 77,heritage,16591,summer
+Mussoorie 78,heritage,7430,monsoon
+Khajuraho 79,beach,10962,summer
+Bir 80,heritage,20930,monsoon
+Varkala 81,heritage,19185,monsoon
+Orchha 82,beach,21313,summer
+Kerala 83,hill station,9437,monsoon
+Kerala 84,backwaters,7485,monsoon
+Udaipur 85,adventure,19642,winter
+Spiti 86,beach,14804,monsoon
+Alibaug 87,adventure,18854,winter
+Kumarakom 88,backwaters,9701,monsoon
+Tirthan 89,beach,15876,monsoon
+Pondicherry 90,beach,20112,winter
+Zanskar 91,adventure,17607,summer
+Goa 92,backwaters,11403,monsoon
+Diu 93,beach,8349,winter
+Gokarna 94,heritage,23067,monsoon
+Orchha 95,heritage,23600,monsoon
+Goa 96,adventure,17879,winter
+Munnar 97,hill station,7780,monsoon
+Rishikesh 98,heritage,11562,summer
+Khajuraho 99,beach,24473,winter
+Munnar 100,heritage,6090,monsoon
+Manali 101,adventure,15653,monsoon
+Hampi 102,adventure,14329,monsoon
+Agra 103,beach,18393,winter
+Agra 104,heritage,12279,monsoon
+Orchha 105,beach,7412,summer
+Bekal 106,backwaters,8748,monsoon
+Nainital 107,heritage,6588,winter
+Ashtamudi 108,heritage,14480,monsoon
+Diu 109,beach,7617,winter
+Jaipur 110,heritage,11181,winter
+Bir 111,adventure,9741,summer
+Jaipur 112,hill station,15806,winter
+Shimla 113,beach,16555,monsoon
+Shimla 114,adventure,16449,summer
+Agra 115,heritage,22437,summer
+Gokarna 116,adventure,6997,winter
+Agra 117,backwaters,18414,summer
+Khajuraho 118,heritage,23428,winter
+Tirthan 119,heritage,13360,monsoon
+Hampi 120,heritage,18216,monsoon
+Gokarna 121,hill station,23730,winter
+Rishikesh 122,hill station,21803,summer
+Orchha 123,heritage,22651,winter
+Shimla 124,backwaters,23939,summer
+Zanskar 125,heritage,23643,monsoon
+Goa 126,hill station,21568,summer
+Kerala 127,hill station,24063,monsoon
+Tirthan 128,adventure,12006,summer
+Zanskar 129,backwaters,11418,summer
+Bir 130,beach,19012,monsoon
+Varkala 131,backwaters,12973,monsoon
+Spiti 132,heritage,8146,winter
+Gokarna 133,heritage,15235,winter
+Leh 134,backwaters,12151,winter
+Ashtamudi 135,backwaters,9199,summer
+Alibaug 136,heritage,19538,winter
+Orchha 137,beach,18788,summer
+Bir 138,beach,12779,winter
+Alleppey 139,hill station,13571,monsoon
+Nainital 140,hill station,19642,summer
+Pondicherry 141,adventure,19090,monsoon
+Alleppey 142,beach,20765,summer
+Varkala 143,adventure,12165,winter
+Alibaug 144,hill station,14201,monsoon
+Munnar 145,heritage,15624,summer
+Leh 146,heritage,21924,winter
+Alleppey 147,heritage,7139,monsoon
+Alibaug 148,beach,18774,winter
+Varkala 149,beach,20992,monsoon
+Bir 150,hill station,19926,winter
+Nainital 151,beach,18890,winter
+Kumarakom 152,hill station,17507,winter
+Orchha 153,heritage,15574,winter
+Orchha 154,beach,18564,monsoon
+Manali 155,beach,9146,monsoon
+Coorg 156,heritage,20033,winter
+Varkala 157,beach,21519,monsoon
+Munnar 158,hill station,21819,summer
+Varkala 159,heritage,10778,winter
+Gokarna 160,heritage,22558,monsoon
+Munnar 161,adventure,12826,winter
+Mussoorie 162,adventure,20741,summer
+Goa 163,heritage,20958,winter
+Jaipur 164,hill station,22969,monsoon
+Kumarakom 165,hill station,14217,monsoon
+Udaipur 166,backwaters,12990,summer
+Varkala 167,heritage,15840,monsoon
+Coorg 168,adventure,6850,summer
+Varkala 169,backwaters,14870,winter
+Pondicherry 170,heritage,22740,summer
+Goa 171,hill station,22375,monsoon
+Bekal 172,backwaters,9300,winter
+Jaipur 173,adventure,9011,monsoon
+Munnar 174,beach,22084,monsoon
+Spiti 175,adventure,10005,winter
+Pondicherry 176,heritage,7319,winter
+Varkala 177,heritage,9774,summer
+Manali 178,beach,15217,summer
+Zanskar 179,hill station,18102,winter
+Bir 180,backwaters,15949,monsoon
+Gokarna 181,hill station,13069,winter
+Spiti 182,backwaters,10324,monsoon
+Shimla 183,adventure,9464,winter
+Leh 184,beach,10231,monsoon
+Udaipur 185,heritage,22473,monsoon
+Manali 186,heritage,7775,monsoon
+Pondicherry 187,hill station,24934,summer
+Bekal 188,adventure,21874,summer
+Bekal 189,heritage,10078,monsoon
+Khajuraho 190,hill station,12281,monsoon
+Alibaug 191,heritage,8044,summer
+Orchha 192,heritage,22651,summer
+Alibaug 193,adventure,14866,monsoon
+Bir 194,heritage,8417,summer
+Kumarakom 195,beach,20428,monsoon
+Rishikesh 196,beach,15359,monsoon
+Kumarakom 197,backwaters,11282,monsoon
+Goa 198,backwaters,19344,winter
+Khajuraho 199,hill station,9669,summer
+Nainital 200,heritage,10202,summer
+Mussoorie 201,heritage,18089,winter
+Orchha 202,beach,24222,summer
+Udaipur 203,adventure,15979,summer
+Khajuraho 204,heritage,12534,summer
+Udaipur 205,adventure,24684,summer
+Kerala 206,backwaters,11928,monsoon
+Nainital 207,backwaters,13547,monsoon
+Munnar 208,heritage,11078,monsoon
+Khajuraho 209,hill station,15510,monsoon
+Varkala 210,hill station,24433,monsoon
+Coorg 211,adventure,12336,summer
+Kerala 212,hill station,14667,monsoon
+Spiti 213,adventure,18865,summer
+Zanskar 214,adventure,22770,monsoon
+Leh 215,hill station,21914,winter
+Bir 216,beach,24879,summer
+Rishikesh 217,backwaters,17511,summer
+Udaipur 218,beach,12973,winter
+Coorg 219,hill station,13872,winter
+Tirthan 220,heritage,15623,monsoon
+Rishikesh 221,hill station,17847,winter
+Khajuraho 222,hill station,23112,winter
+Udaipur 223,backwaters,20765,summer
+Ashtamudi 224,beach,10318,monsoon
+Spiti 225,beach,7826,summer
+Bekal 226,beach,17830,summer
+Spiti 227,hill station,10521,summer
+Coorg 228,beach,9131,monsoon
+Orchha 229,heritage,16022,summer
+Khajuraho 230,hill station,18746,winter
+Coorg 231,backwaters,23826,winter
+Jaipur 232,heritage,11213,monsoon
+Khajuraho 233,heritage,18084,summer
+Zanskar 234,backwaters,21461,winter
+Kerala 235,hill station,7992,summer
+Munnar 236,adventure,21188,monsoon
+Rishikesh 237,heritage,18085,summer
+Varkala 238,heritage,11803,summer
+Nainital 239,heritage,22812,summer
+Nainital 240,adventure,18253,summer
+Manali 241,backwaters,17508,summer
+Varkala 242,hill station,15383,winter
+Varkala 243,beach,11645,summer
+Nainital 244,hill station,12104,winter
+Alibaug 245,backwaters,11751,monsoon
+Hampi 246,heritage,24532,winter
+Goa 247,backwaters,8209,monsoon
+Bekal 248,adventure,15847,monsoon
+Shimla 249,hill station,19680,monsoon
+Leh 250,heritage,9442,monsoon
+Ashtamudi 251,backwaters,21710,summer
+Kumarakom 252,beach,22284,winter
+Varkala 253,adventure,11046,summer
+Nainital 254,beach,22563,monsoon
+Spiti 255,hill station,8607,winter
+Agra 256,hill station,21051,summer
+Bekal 257,backwaters,13635,winter
+Agra 258,hill station,8416,winter
+Alleppey 259,adventure,15470,winter
+Spiti 260,backwaters,10052,winter
+Mussoorie 261,backwaters,7266,monsoon
+Poovar 262,heritage,12426,summer
+Tirthan 263,backwaters,19262,monsoon
+Diu 264,hill station,11565,monsoon
+Poovar 265,heritage,21244,winter
+Bir 266,backwaters,24061,monsoon
+Zanskar 267,adventure,7995,winter
+Jaipur 268,beach,8730,monsoon
+Kerala 269,beach,20863,winter
+Nainital 270,adventure,21904,monsoon
+Bir 271,hill station,17726,monsoon
+Pondicherry 272,beach,13038,summer
+Orchha 273,heritage,7355,summer
+Pondicherry 274,backwaters,18764,summer
+Bir 275,adventure,15179,summer
+Goa 276,heritage,23123,winter
+Spiti 277,heritage,11563,winter
+Mussoorie 278,hill station,6757,summer
+Nainital 279,heritage,17173,winter
+Agra 280,adventure,15548,winter
+Hampi 281,heritage,9933,monsoon
+Alleppey 282,backwaters,9391,summer
+Udaipur 283,backwaters,24393,summer
+Kerala 284,adventure,23342,summer
+Pondicherry 285,adventure,24041,summer
+Agra 286,backwaters,12314,summer
+Kerala 287,hill station,23885,monsoon
+Alibaug 288,beach,24558,monsoon
+Shimla 289,hill station,17091,monsoon
+Goa 290,backwaters,17185,summer
+Alibaug 291,adventure,11424,winter
+Rishikesh 292,heritage,11618,summer
+Agra 293,beach,19474,summer
+Leh 294,heritage,10528,summer
+Nainital 295,hill station,15627,summer
+Shimla 296,hill station,17903,summer
+Spiti 297,heritage,23269,monsoon
+Jaipur 298,adventure,19569,summer
+Goa 299,hill station,20991,winter
+Mussoorie 300,beach,17139,monsoon
+Rishikesh 301,adventure,13506,summer
+Manali 302,beach,14657,monsoon
+Agra 303,adventure,10094,summer
+Nainital 304,backwaters,22807,monsoon
+Orchha 305,hill station,17968,winter
+Bir 306,adventure,13139,summer
+Kumarakom 307,heritage,23943,monsoon
+Gokarna 308,heritage,6395,winter
+Khajuraho 309,heritage,16328,winter
+Alibaug 310,backwaters,17759,winter
+Jaipur 311,backwaters,24022,monsoon
+Poovar 312,adventure,16042,summer
+Zanskar 313,heritage,12352,summer
+Jaipur 314,backwaters,12514,winter
+Khajuraho 315,backwaters,11054,monsoon
+Manali 316,adventure,18828,monsoon
+Rishikesh 317,adventure,18078,winter
+Kumarakom 318,beach,10877,summer
+Kumarakom 319,beach,8477,monsoon
+Hampi 320,adventure,20715,winter
+Rishikesh 321,backwaters,22082,monsoon
+Varkala 322,backwaters,23739,winter
+Shimla 323,beach,9817,winter
+Spiti 324,adventure,15414,summer
+Munnar 325,beach,8490,summer
+Goa 326,adventure,24710,winter
+Alibaug 327,heritage,20400,monsoon
+Gokarna 328,beach,19999,monsoon
+Alleppey 329,beach,19740,monsoon
+Munnar 330,adventure,9089,monsoon
+Poovar 331,hill station,13395,summer
+Nainital 332,adventure,8007,summer
+Bir 333,backwaters,22913,winter
+Orchha 334,hill station,15135,monsoon
+Orchha 335,beach,19940,monsoon
+Poovar 336,heritage,17992,summer
+Agra 337,hill station,13061,monsoon
+Zanskar 338,backwaters,15955,winter
+Kerala 339,adventure,6348,summer
+Pondicherry 340,hill station,15494,monsoon
+Rishikesh 341,adventure,22551,winter
+Alleppey 342,heritage,20345,summer
+Goa 343,adventure,21604,summer
+Diu 344,hill station,16337,summer
+Varkala 345,adventure,7243,summer
+Gokarna 346,beach,12519,summer
+Diu 347,backwaters,11170,summer
+Alibaug 348,adventure,13487,summer
+Hampi 349,adventure,13555,winter
+Leh 350,backwaters,15150,winter
+Agra 351,hill station,22818,winter
+Alibaug 352,beach,15635,summer
+Spiti 353,backwaters,17636,monsoon
+Bekal 354,adventure,21392,winter
+Goa 355,adventure,15940,summer
+Ashtamudi 356,hill station,11448,summer
+Pondicherry 357,beach,18912,summer
+Hampi 358,adventure,21977,winter
+Udaipur 359,hill station,8301,summer
+Poovar 360,backwaters,23724,monsoon
+Shimla 361,backwaters,24061,monsoon
+Khajuraho 362,hill station,19730,monsoon
+Pondicherry 363,backwaters,6936,winter
+Munnar 364,beach,6940,monsoon
+Bekal 365,beach,20079,monsoon
+Alleppey 366,backwaters,11360,winter
+Nainital 367,adventure,19756,summer
+Zanskar 368,backwaters,20044,monsoon
+Zanskar 369,heritage,15314,summer
+Alleppey 370,adventure,13581,winter
+Kumarakom 371,heritage,23055,summer
+Leh 372,adventure,6825,winter
+Poovar 373,adventure,22544,summer
+Khajuraho 374,beach,22193,summer
+Coorg 375,beach,13899,monsoon
+Manali 376,beach,13270,winter
+Orchha 377,backwaters,13433,winter
+Goa 378,beach,19554,monsoon
+Orchha 379,backwaters,24773,summer
+Mussoorie 380,heritage,7825,summer
+Pondicherry 381,hill station,12131,summer
+Kerala 382,adventure,10721,summer
+Shimla 383,heritage,11989,monsoon
+Jaipur 384,backwaters,12772,summer
+Goa 385,heritage,21381,summer
+Goa 386,hill station,6506,winter
+Poovar 387,beach,17840,winter
+Spiti 388,heritage,9629,winter
+Spiti 389,beach,15888,summer
+Orchha 390,beach,11043,summer
+Hampi 391,beach,18822,summer
+Nainital 392,backwaters,11027,monsoon
+Leh 393,beach,15526,winter
+Diu 394,hill station,8841,monsoon
+Bekal 395,heritage,23253,summer
+Agra 396,beach,23804,winter
+Hampi 397,beach,23768,winter
+Shimla 398,adventure,19421,winter
+Poovar 399,adventure,12251,monsoon
+Bekal 400,backwaters,6961,summer
+Goa 401,heritage,11149,summer
+Kerala 402,hill station,6814,summer
+Udaipur 403,hill station,13297,summer
+Jaipur 404,adventure,20666,monsoon
+Diu 405,adventure,8139,monsoon
+Bir 406,backwaters,20404,summer
+Diu 407,heritage,16417,monsoon
+Khajuraho 408,heritage,7231,monsoon
+Munnar 409,adventure,10557,summer
+Goa 410,heritage,21560,winter
+Mussoorie 411,hill station,24661,summer
+Mussoorie 412,heritage,17206,summer
+Gokarna 413,hill station,11324,winter
+Kerala 414,adventure,14574,summer
+Leh 415,heritage,9522,winter
+Coorg 416,adventure,17103,monsoon
+Mussoorie 417,adventure,14956,summer
+Mussoorie 418,backwaters,17793,summer
+Khajuraho 419,adventure,7804,winter
+Bir 420,backwaters,9114,monsoon
+Diu 421,adventure,15969,winter
+Tirthan 422,beach,23991,summer
+Udaipur 423,backwaters,12712,monsoon
+Khajuraho 424,backwaters,18579,summer
+Alibaug 425,backwaters,15702,summer
+Jaipur 426,beach,12452,winter
+Shimla 427,adventure,6688,monsoon
+Bekal 428,backwaters,8814,summer
+Diu 429,adventure,23305,winter
+Goa 430,heritage,14699,monsoon
+Munnar 431,adventure,11757,summer
+Poovar 432,heritage,10149,winter
+Varkala 433,beach,12701,winter
+Jaipur 434,hill station,10491,monsoon
+Ashtamudi 435,adventure,7865,summer
+Alibaug 436,backwaters,13555,summer
+Manali 437,backwaters,19614,summer
+Zanskar 438,backwaters,24332,winter
+Munnar 439,heritage,24263,monsoon
+Leh 440,backwaters,7368,monsoon
+Orchha 441,beach,19911,monsoon
+Ashtamudi 442,backwaters,13469,winter
+Mussoorie 443,heritage,13629,monsoon
+Leh 444,beach,22107,winter
+Pondicherry 445,adventure,11841,monsoon
+Manali 446,adventure,10239,summer
+Kerala 447,backwaters,11133,summer
+Munnar 448,backwaters,21857,summer
+Bekal 449,heritage,22275,summer
+Zanskar 450,adventure,12434,summer
+Poovar 451,backwaters,6437,summer
+Poovar 452,backwaters,23748,summer
+Varkala 453,backwaters,20657,summer
+Bir 454,adventure,15503,monsoon
+Udaipur 455,adventure,16421,summer
+Kerala 456,beach,18952,monsoon
+Gokarna 457,hill station,19930,monsoon
+Munnar 458,adventure,17440,summer
+Diu 459,adventure,10731,monsoon
+Tirthan 460,adventure,6931,summer
+Varkala 461,backwaters,22282,summer
+Kumarakom 462,beach,16686,summer
+Nainital 463,heritage,19966,winter
+Gokarna 464,hill station,8766,winter
+Munnar 465,heritage,9066,monsoon
+Varkala 466,adventure,6963,summer
+Alleppey 467,adventure,18624,summer
+Manali 468,adventure,10960,winter
+Munnar 469,hill station,9147,monsoon
+Khajuraho 470,beach,19198,monsoon
+Alibaug 471,backwaters,16103,winter
+Alleppey 472,adventure,14432,monsoon
+Kumarakom 473,hill station,16161,summer
+Bir 474,backwaters,10425,winter
+Hampi 475,hill station,6954,summer
+Alleppey 476,adventure,18132,summer
+Munnar 477,hill station,9944,monsoon
+Agra 478,hill station,12268,summer
+Poovar 479,heritage,19847,summer
+Udaipur 480,hill station,20747,monsoon
+Alibaug 481,backwaters,8021,monsoon
+Zanskar 482,adventure,22585,summer
+Coorg 483,backwaters,15198,monsoon
+Kerala 484,heritage,8988,winter
+Ashtamudi 485,beach,7083,monsoon
+Agra 486,beach,24711,summer
+Agra 487,heritage,6734,monsoon
+Goa 488,beach,7682,winter
+Alleppey 489,beach,23022,summer
+Jaipur 490,heritage,8250,winter
+Spiti 491,beach,9015,monsoon
+Alleppey 492,backwaters,15506,monsoon
+Bir 493,beach,11978,monsoon
+Bir 494,adventure,12508,monsoon
+Zanskar 495,hill station,16353,monsoon
+Goa 496,adventure,13292,monsoon
+Bir 497,adventure,21817,monsoon
+Varkala 498,adventure,24037,summer
+Tirthan 499,adventure,9238,monsoon
