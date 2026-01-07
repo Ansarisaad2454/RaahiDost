@@ -1,50 +1,76 @@
-# Welcome to your Expo app 👋
+# RaahiDost – AI-Based Travel Recommendation System 🌍✈️
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+RaahiDost is an AI-powered travel recommendation application designed to help users discover suitable travel destinations and packages based on their **budget, preferences, and interests**.  
+The system acts as a smart travel companion that simplifies trip planning by providing personalized and budget-friendly travel suggestions.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Key Features
 
-   ```bash
-   npm install
-   ```
+- 🧳 **Budget-Based Travel Recommendations**  
+  Suggests destinations and travel packages according to the user’s budget.
 
-2. Start the app
+- 🗺️ **Personalized Destination Suggestions**  
+  Recommends places based on user preferences such as nature, adventure, culture, or leisure.
 
-   ```bash
-   npx expo start
-   ```
+- 🍽️ **Food & Local Experience Suggestions**  
+  Suggests popular local food and experiences at selected destinations.
 
-In the output, you'll find options to open the app in a
+- 🤖 **AI-Powered Recommendation Logic**  
+  Uses machine learning techniques to improve recommendation accuracy.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- 📱 **User-Friendly Interface**  
+  Simple, clean, and interactive UI for easy trip planning.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🧠 Technologies Used
 
-When you're ready, run:
+### 🔹 Frontend
+- React Native
+- JavaScript
 
-```bash
-npm run reset-project
-```
+### 🔹 Backend
+- Python
+- Flask / FastAPI
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 🔹 Database & Cloud
+- Firebase (Authentication & Database)
 
-## Learn more
+### 🔹 AI & ML
+- Machine Learning-based recommendation logic
+- TensorFlow (for AI components)
+- OpenCV (for face recognition – optional enhancement)
 
-To learn more about developing your project with Expo, look at the following resources:
+---
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## ⚙️ System Workflow
 
-## Join the community
+1. User enters budget and travel preferences  
+2. Data is processed by the backend  
+3. AI recommendation engine analyzes user input  
+4. Suitable destinations and packages are generated  
+5. Results are displayed in a simple and interactive interface  
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🎯 Project Objectives
+
+- Make travel planning simple and budget-friendly
+- Provide personalized travel suggestions using AI
+- Help users explore destinations with minimum effort
+- Combine travel, food, and experience recommendations in one system
+  
+
+---
+
+## 👨‍💻 Developer
+
+**Saad Ansari**  
+MSc Artificial Intelligence & Machine Learning  
+Department of Computer Science, Gujarat University
+
+---
+
+## ⭐ Support
+If you like this project, don’t forget to give it a ⭐ on GitHub!
